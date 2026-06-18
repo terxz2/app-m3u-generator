@@ -140,9 +140,16 @@ def generate_pluto_m3u():
                     'service_group': c_info.get('group', 'Other')
                 }
 
+        #sorted_channels = sorted(
+        #    channels.items(),
+        #    key=lambda x: (0 if x[1]['country_group'] in TOP_REGIONS else 1, x[1].get('name', ''))
+        #)
         sorted_channels = sorted(
             channels.items(),
-            key=lambda x: (0 if x[1]['country_group'] in TOP_REGIONS else 1, x[1].get('name', ''))
+            key=lambda x: (
+                0 if not x[1].get('chno') or not str(x[1].get('chno')).isdigit() else 1,
+                int(x[1]['chno']) if x[1].get('chno') and str(x[1]['chno']).isdigit() else 0
+            )
         )
 
         for c_id, ch in sorted_channels:
