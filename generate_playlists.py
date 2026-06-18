@@ -148,11 +148,14 @@ def generate_pluto_m3u():
         for c_id, ch in sorted_channels:
             group_title = ch['country_group'] if is_all else ch['service_group']
 
+            chno = ch.get('chno')
+            new_chno = int(chno) + 6000 if chno and str(chno).isdigit() else chno
+            
             output_lines.extend([
                 format_extinf(
                     c_id,
                     ch['original_id'],
-                    ch.get('chno'),
+                    new_chno,
                     ch['name'],
                     ch['logo'],
                     group_title,
