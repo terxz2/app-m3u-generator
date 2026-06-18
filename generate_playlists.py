@@ -152,7 +152,7 @@ def generate_pluto_m3u():
                 format_extinf(
                     c_id,
                     ch['original_id'],
-                    ch.get('chno' + 6000),
+                    ch.get('chno'),
                     ch['name'],
                     ch['logo'],
                     group_title,
