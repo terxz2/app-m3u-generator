@@ -175,7 +175,7 @@ def generate_plex_m3u():
         channel_list = []
         for c_id, ch in data['channels'].items():
             if region == 'all' or region in ch.get('regions', []):
-                group = REGION_MAP.get(region.lower(), region.upper()) if region != 'all' else 'Plex'
+                group = REGION_MAP.get(region.lower(), region.upper()) if region != 'all' else REGION_MAP.get(ch.get('regions', [''])[0].lower(), ch.get('regions', ['Other'])[0].upper())
                 channel_list.append((group, ch['name'].lower(), format_extinf(c_id, c_id, ch.get('chno'), ch['name'], ch.get('logo', ''), group, ch['name']), f"https://epg.provider.plex.tv/library/parts/{c_id}/?X-Plex-Token={token}\n"))
         if channel_list:
             channel_list.sort(key=lambda x: (0 if x[0] in TOP_REGIONS else 1, x[1]))
