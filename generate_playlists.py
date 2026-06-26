@@ -407,7 +407,8 @@ def create_m3u_playlist(epg_data, group_mapping):
         stream_url = unquote(elem['video_resources'][0]['manifest']['url']) if elem.get('video_resources') else ''
         clean_url = clean_stream_url(stream_url)
         tvg_id = str(elem.get('content_id', ''))
-        logo_url = elem.get('images', {}).get('thumbnail', [None])[0]
+        #logo_url = elem.get('images', {}).get('thumbnail', [None])[0]
+        logo_url = next(iter(elem.get('images', {}).get('thumbnail', [])), None)
         group_title = group_mapping.get(tvg_id, 'Other').encode('utf-8', errors='ignore').decode('utf-8')
         if clean_url and clean_url not in seen_urls:
             playlist += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo_url}" group-title="{group_title}",{channel_name}\n{clean_url}\n'
