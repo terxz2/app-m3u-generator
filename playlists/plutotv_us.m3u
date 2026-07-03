@@ -137,8 +137,6 @@ https://jmp2.uk/plu-5ef3977e5d773400077de284.m3u8
 https://jmp2.uk/plu-5f7794a788d29000079d2f07.m3u8
 #EXTINF:-1 channel-id="64d1606b4c5ed80008e3b8b9" tvg-id="64d1606b4c5ed80008e3b8b9" tvg-chno="6630" tvg-name="Dynasty" tvg-logo="https://images.pluto.tv/channels/64d1606b4c5ed80008e3b8b9/colorLogoPNG_1731835571308.png" group-title="Classic TV",Dynasty
 https://jmp2.uk/plu-64d1606b4c5ed80008e3b8b9.m3u8
-#EXTINF:-1 channel-id="654933ac986ad20008a1f406" tvg-id="654933ac986ad20008a1f406" tvg-chno="6640" tvg-name="Little House on the Prairie" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="Classic TV",Little House on the Prairie
-https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
 #EXTINF:-1 channel-id="5f15e3cccf49290007053c67" tvg-id="5f15e3cccf49290007053c67" tvg-chno="6650" tvg-name="Classic TV Drama" tvg-logo="https://images.pluto.tv/channels/5f15e3cccf49290007053c67/colorLogoPNG.png" group-title="Classic TV",Classic TV Drama
 https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
 #EXTINF:-1 channel-id="61325c4f982acd000723287e" tvg-id="61325c4f982acd000723287e" tvg-chno="6660" tvg-name="Classic TV Crime Drama" tvg-logo="https://images.pluto.tv/channels/61325c4f982acd000723287e/colorLogoPNG.png" group-title="Classic TV",Classic TV Crime Drama
@@ -165,6 +163,10 @@ https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
 https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
 #EXTINF:-1 channel-id="68e9913c4a666b9054849832" tvg-id="68e9913c4a666b9054849832" tvg-chno="6797" tvg-name="Bonanza" tvg-logo="https://images.pluto.tv/channels/68e9913c4a666b9054849832/colorLogoPNG_1762379692322.png" group-title="Westerns",Bonanza
 https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
+#EXTINF:-1 channel-id="654933ac986ad20008a1f406" tvg-id="654933ac986ad20008a1f406" tvg-chno="6798" tvg-name="Little House on the Prairie" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="Americana",Little House on the Prairie
+https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
+#EXTINF:-1 channel-id="6a2b0f2509705ebdf781231d" tvg-id="6a2b0f2509705ebdf781231d" tvg-chno="6799" tvg-name="Dr. Quinn, Medicine Woman" tvg-logo="https://images.pluto.tv/channels/6a2b0f2509705ebdf781231d/colorLogoPNG_1782946772357.png" group-title="Westerns",Dr. Quinn Medicine Woman
+https://jmp2.uk/plu-6a2b0f2509705ebdf781231d.m3u8
 #EXTINF:-1 channel-id="664e640a0120f40008be4582" tvg-id="664e640a0120f40008be4582" tvg-chno="6800" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" group-title="Westerns",The Wild Wild West
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 #EXTINF:-1 channel-id="634f307c7a068e00072c9982" tvg-id="634f307c7a068e00072c9982" tvg-chno="6810" tvg-name="Rawhide" tvg-logo="https://images.pluto.tv/channels/634f307c7a068e00072c9982/colorLogoPNG_1731835685335.png" group-title="Westerns",Rawhide

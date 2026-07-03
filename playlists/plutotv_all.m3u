@@ -437,7 +437,7 @@ https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
 https://jmp2.uk/plu-5dfcde52d28b09000a42d7a2.m3u8
 #EXTINF:-1 channel-id="6054a9f4bc8a5f000771504c-de" tvg-id="6054a9f4bc8a5f000771504c" tvg-chno="6071" tvg-name="Takeshi's Castle" tvg-logo="https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoPNG.png" group-title="Germany",Takeshi's Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
-#EXTINF:-1 channel-id="5f171f032cd22e0007f17f3d-br" tvg-id="5f171f032cd22e0007f17f3d" tvg-chno="6071" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1732045254120.png" group-title="Brazil",Pluto TV Cine Família
+#EXTINF:-1 channel-id="5f171f032cd22e0007f17f3d-br" tvg-id="5f171f032cd22e0007f17f3d" tvg-chno="6071" tvg-name="Pluto TV Cine Família" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG_1783017834757.png" group-title="Brazil",Pluto TV Cine Família
 https://jmp2.uk/plu-5f171f032cd22e0007f17f3d.m3u8
 #EXTINF:-1 channel-id="5d767ab2b456c8cf265ce921-de" tvg-id="5d767ab2b456c8cf265ce921" tvg-chno="6072" tvg-name="Pluto TV Sitcoms" tvg-logo="https://images.pluto.tv/channels/5d767ab2b456c8cf265ce921/colorLogoPNG.png" group-title="Germany",Pluto TV Sitcoms
 https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
@@ -3343,8 +3343,6 @@ https://jmp2.uk/plu-69b03041cafd86d9dc5763c3.m3u8
 https://jmp2.uk/plu-691b012d1148fa1cd8a75d5c.m3u8
 #EXTINF:-1 channel-id="6512d6c92ce8e40008bd5c81-se" tvg-id="6512d6c92ce8e40008bd5c81" tvg-chno="6638" tvg-name="The Twilight Zone" tvg-logo="https://images.pluto.tv/channels/6512d6c92ce8e40008bd5c81/colorLogoPNG.png" group-title="Sweden",The Twilight Zone
 https://jmp2.uk/plu-6512d6c92ce8e40008bd5c81.m3u8
-#EXTINF:-1 channel-id="654933ac986ad20008a1f406-us" tvg-id="654933ac986ad20008a1f406" tvg-chno="6640" tvg-name="Little House on the Prairie" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="United States",Little House on the Prairie
-https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
 #EXTINF:-1 channel-id="62bdaf3470f09a000714a2f6-ca" tvg-id="62bdaf3470f09a000714a2f6" tvg-chno="6640" tvg-name="Degrassi" tvg-logo="https://images.pluto.tv/channels/62bdaf3470f09a000714a2f6/colorLogoPNG.png" group-title="Canada",Degrassi
 https://jmp2.uk/plu-62bdaf3470f09a000714a2f6.m3u8
 #EXTINF:-1 channel-id="62fb9ade112ca70007d8441d-ca" tvg-id="62fb9ade112ca70007d8441d" tvg-chno="6645" tvg-name="Nonstop Drama" tvg-logo="https://images.pluto.tv/channels/62fb9ade112ca70007d8441d/colorLogoPNG.png" group-title="Canada",Nonstop Drama
@@ -3695,6 +3693,10 @@ https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
 https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
 #EXTINF:-1 channel-id="68e9913c4a666b9054849832-us" tvg-id="68e9913c4a666b9054849832" tvg-chno="6797" tvg-name="Bonanza" tvg-logo="https://images.pluto.tv/channels/68e9913c4a666b9054849832/colorLogoPNG_1762379692322.png" group-title="United States",Bonanza
 https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
+#EXTINF:-1 channel-id="654933ac986ad20008a1f406-us" tvg-id="654933ac986ad20008a1f406" tvg-chno="6798" tvg-name="Little House on the Prairie" tvg-logo="https://images.pluto.tv/channels/654933ac986ad20008a1f406/colorLogoPNG.png" group-title="United States",Little House on the Prairie
+https://jmp2.uk/plu-654933ac986ad20008a1f406.m3u8
+#EXTINF:-1 channel-id="6a2b0f2509705ebdf781231d-us" tvg-id="6a2b0f2509705ebdf781231d" tvg-chno="6799" tvg-name="Dr. Quinn, Medicine Woman" tvg-logo="https://images.pluto.tv/channels/6a2b0f2509705ebdf781231d/colorLogoPNG_1782946772357.png" group-title="United States",Dr. Quinn Medicine Woman
+https://jmp2.uk/plu-6a2b0f2509705ebdf781231d.m3u8
 #EXTINF:-1 channel-id="664e640a0120f40008be4582-us" tvg-id="664e640a0120f40008be4582" tvg-chno="6800" tvg-name="The Wild Wild West" tvg-logo="https://images.pluto.tv/channels/664e640a0120f40008be4582/colorLogoPNG.png" group-title="United States",The Wild Wild West
 https://jmp2.uk/plu-664e640a0120f40008be4582.m3u8
 #EXTINF:-1 channel-id="61c4a09d6c959f0007189c93-gb" tvg-id="61c4a09d6c959f0007189c93" tvg-chno="6800" tvg-name="Mystery TV" tvg-logo="https://images.pluto.tv/channels/61c4a09d6c959f0007189c93/colorLogoPNG.png" group-title="United Kingdom",Mystery TV
