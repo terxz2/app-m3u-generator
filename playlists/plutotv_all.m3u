@@ -1651,7 +1651,7 @@ https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
 https://jmp2.uk/plu-6a28827ef4a627f3b07df1ea.m3u8
 #EXTINF:-1 channel-id="68e38aaf8082ad3760def7bc-gb" tvg-id="68e38aaf8082ad3760def7bc" tvg-chno="6293" tvg-name="Hercules: The Legendary Journeys" tvg-logo="https://images.pluto.tv/channels/68e38aaf8082ad3760def7bc/colorLogoPNG_1770826301055.png" group-title="United Kingdom",Hercules: The Legendary Journeys
 https://jmp2.uk/plu-68e38aaf8082ad3760def7bc.m3u8
-#EXTINF:-1 channel-id="60e4519e6873180007d3cddb-de" tvg-id="60e4519e6873180007d3cddb" tvg-chno="6293" tvg-name="BBC Travel" tvg-logo="https://images.pluto.tv/channels/60e4519e6873180007d3cddb/colorLogoPNG.png" group-title="Germany",BBC Travel
+#EXTINF:-1 channel-id="60e4519e6873180007d3cddb-de" tvg-id="60e4519e6873180007d3cddb" tvg-chno="6293" tvg-name="BBC Lifestyle" tvg-logo="https://images.pluto.tv/channels/60e4519e6873180007d3cddb/colorLogoPNG_1783324912745.png" group-title="Germany",BBC Lifestyle
 https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
 #EXTINF:-1 channel-id="5dc280c9aa218c0009724b4b-de" tvg-id="5dc280c9aa218c0009724b4b" tvg-chno="6294" tvg-name="Pluto TV Food" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png" group-title="Germany",Pluto TV Food
 https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
@@ -4803,8 +4803,6 @@ https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
 https://jmp2.uk/plu-5ff608e60e2996000768c366.m3u8
 #EXTINF:-1 channel-id="638e10220aa6a6000726979f-ca" tvg-id="638e10220aa6a6000726979f" tvg-chno="7298" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/638e10220aa6a6000726979f/colorLogoPNG_1756376814913.png" group-title="Canada",Top Gear
 https://jmp2.uk/plu-638e10220aa6a6000726979f.m3u8
-#EXTINF:-1 channel-id="69fc876bdf0b6d462c093432-ca" tvg-id="69fc876bdf0b6d462c093432" tvg-chno="7299" tvg-name="3ICE Hockey World Cup 2026" tvg-logo="https://images.pluto.tv/channels/69fc876bdf0b6d462c093432/colorLogoPNG_1782227180985.png" group-title="Canada",3ICE Hockey World Cup 2026
-https://jmp2.uk/plu-69fc876bdf0b6d462c093432.m3u8
 #EXTINF:-1 channel-id="5bb1af6a268cae539bcedb0a-us" tvg-id="5bb1af6a268cae539bcedb0a" tvg-chno="7300" tvg-name="Forensic Files" tvg-logo="https://images.pluto.tv/channels/5bb1af6a268cae539bcedb0a/colorLogoPNG.png" group-title="United States",Forensic Files
 https://jmp2.uk/plu-5bb1af6a268cae539bcedb0a.m3u8
 #EXTINF:-1 channel-id="69c592dff0f1a7d732dc6e36-ca" tvg-id="69c592dff0f1a7d732dc6e36" tvg-chno="7302" tvg-name="Pluto TV Cars" tvg-logo="https://images.pluto.tv/channels/69c592dff0f1a7d732dc6e36/colorLogoPNG_1774557827331.png" group-title="Canada",Pluto TV Cars
