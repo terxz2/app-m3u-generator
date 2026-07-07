@@ -75,8 +75,8 @@ https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
 https://jmp2.uk/plu-691b334a1308fa77bb056b0e.m3u8
 #EXTINF:-1 channel-id="68590366010ddd78ef837d29-de" tvg-id="68590366010ddd78ef837d29" tvg-chno="6011" tvg-name="KultKrimi: Ein Fall für zwei" tvg-logo="https://images.pluto.tv/channels/68590366010ddd78ef837d29/colorLogoPNG_1751971997033.png" group-title="Germany",KultKrimi: Ein Fall für zwei
 https://jmp2.uk/plu-68590366010ddd78ef837d29.m3u8
-#EXTINF:-1 channel-id="691b332aa4385c191ee44b57-fr" tvg-id="691b332aa4385c191ee44b57" tvg-chno="6011" tvg-name="Rex, chien flic" tvg-logo="https://images.pluto.tv/channels/691b332aa4385c191ee44b57/colorLogoPNG_1771923791904.png" group-title="France",Rex chien flic
-https://jmp2.uk/plu-691b332aa4385c191ee44b57.m3u8
+#EXTINF:-1 channel-id="691b33ae8a64bd1811e923f2-fr" tvg-id="691b33ae8a64bd1811e923f2" tvg-chno="6011" tvg-name="Les vacances de l'amour" tvg-logo="https://images.pluto.tv/channels/691b33ae8a64bd1811e923f2/colorLogoPNG_1771923699657.png" group-title="France",Les vacances de l'amour
+https://jmp2.uk/plu-691b33ae8a64bd1811e923f2.m3u8
 #EXTINF:-1 channel-id="691ed76a9c828fb484f7c2e5-no" tvg-id="691ed76a9c828fb484f7c2e5" tvg-chno="6011" tvg-name="Inter 24/7" tvg-logo="https://images.pluto.tv/channels/691ed76a9c828fb484f7c2e5/colorLogoPNG_1775046984569.png" group-title="Norway",Inter 24/7
 https://jmp2.uk/plu-691ed76a9c828fb484f7c2e5.m3u8
 #EXTINF:-1 channel-id="691ed77b1308fa77bb2d5562-se" tvg-id="691ed77b1308fa77bb2d5562" tvg-chno="6011" tvg-name="Inter 24/7" tvg-logo="https://images.pluto.tv/channels/691ed77b1308fa77bb2d5562/colorLogoPNG_1775047038535.png" group-title="Sweden",Inter 24/7
@@ -185,6 +185,8 @@ https://jmp2.uk/plu-60afa749ac7f3200078adb40.m3u8
 https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
 #EXTINF:-1 channel-id="5dcddfcb229eff00091b6bdf-cl" tvg-id="5dcddfcb229eff00091b6bdf" tvg-chno="6036" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG_1765466087404.png" group-title="Chile",Pluto TV Cine Drama
 https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
+#EXTINF:-1 channel-id="691b332aa4385c191ee44b57-fr" tvg-id="691b332aa4385c191ee44b57" tvg-chno="6036" tvg-name="Rex, chien flic" tvg-logo="https://images.pluto.tv/channels/691b332aa4385c191ee44b57/colorLogoPNG_1771923791904.png" group-title="France",Rex chien flic
+https://jmp2.uk/plu-691b332aa4385c191ee44b57.m3u8
 #EXTINF:-1 channel-id="5dcddfcb229eff00091b6bdf-ar" tvg-id="5dcddfcb229eff00091b6bdf" tvg-chno="6036" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG_1765466087404.png" group-title="Argentina",Pluto TV Cine Drama
 https://jmp2.uk/plu-5dcddfcb229eff00091b6bdf.m3u8
 #EXTINF:-1 channel-id="6479ff764f5ba5000878dfe2-br" tvg-id="6479ff764f5ba5000878dfe2" tvg-chno="6038" tvg-name="Pluto TV Cine Crime" tvg-logo="https://images.pluto.tv/channels/6479ff764f5ba5000878dfe2/colorLogoPNG.png" group-title="Brazil",Pluto TV Cine Crime
