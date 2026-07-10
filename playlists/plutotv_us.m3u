@@ -57,12 +57,6 @@ https://jmp2.uk/plu-5f4d863b98b41000076cd061.m3u8
 https://jmp2.uk/plu-58e55b14ad8e9c364d55f717.m3u8
 #EXTINF:-1 channel-id="5c665db3e6c01b72c4977bc2" tvg-id="5c665db3e6c01b72c4977bc2" tvg-chno="6250" tvg-name="Pluto TV Cult Films" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" group-title="Movies",Pluto TV Cult Films
 https://jmp2.uk/plu-5c665db3e6c01b72c4977bc2.m3u8
-#EXTINF:-1 channel-id="63335df531a7590007c226b9" tvg-id="63335df531a7590007c226b9" tvg-chno="6252" tvg-name="Pluto TV Christmas in July" tvg-logo="https://images.pluto.tv/channels/63335df531a7590007c226b9/colorLogoPNG_1781050123940.png" group-title="Entertainment",Pluto TV Christmas in July
-https://jmp2.uk/plu-63335df531a7590007c226b9.m3u8
-#EXTINF:-1 channel-id="68f690e7a25ba0aab32bed92" tvg-id="68f690e7a25ba0aab32bed92" tvg-chno="6254" tvg-name="BET Holiday Movies" tvg-logo="https://images.pluto.tv/channels/68f690e7a25ba0aab32bed92/colorLogoPNG_1760989733981.png" group-title="Christmas In July",BET Holiday Movies
-https://jmp2.uk/plu-68f690e7a25ba0aab32bed92.m3u8
-#EXTINF:-1 channel-id="5d9ccd538661290009ecbdb7" tvg-id="5d9ccd538661290009ecbdb7" tvg-chno="6254" tvg-name="Pluto TV Mistletoe" tvg-logo="https://images.pluto.tv/channels/5d9ccd538661290009ecbdb7/colorLogoPNG_1762555055191.png" group-title="Christmas In July",Pluto TV Mistletoe
-https://jmp2.uk/plu-5d9ccd538661290009ecbdb7.m3u8
 #EXTINF:-1 channel-id="66e0b265dd2d690008c5496b" tvg-id="66e0b265dd2d690008c5496b" tvg-chno="6258" tvg-name="Places & Spaces" tvg-logo="https://images.pluto.tv/channels/66e0b265dd2d690008c5496b/colorLogoPNG.png" group-title="Christmas In July",Places & Spaces
 https://jmp2.uk/plu-66e0b265dd2d690008c5496b.m3u8
 #EXTINF:-1 channel-id="614501c653ceee000772b0ca" tvg-id="614501c653ceee000772b0ca" tvg-chno="6260" tvg-name="Festive Fireplace" tvg-logo="https://images.pluto.tv/channels/614501c653ceee000772b0ca/colorLogoPNG.png" group-title="Christmas In July",Festive Fireplace
@@ -387,10 +381,16 @@ https://jmp2.uk/plu-65453f30085df200085883d8.m3u8
 https://jmp2.uk/plu-63335b193583440007c859fb.m3u8
 #EXTINF:-1 channel-id="628e685ba3811100070551a8" tvg-id="628e685ba3811100070551a8" tvg-chno="8080" tvg-name="Hallmark Movies & More" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG_1767639054863.png" group-title="Entertainment",Hallmark Movies & More
 https://jmp2.uk/plu-628e685ba3811100070551a8.m3u8
+#EXTINF:-1 channel-id="63335df531a7590007c226b9" tvg-id="63335df531a7590007c226b9" tvg-chno="8082" tvg-name="Pluto TV Christmas in July" tvg-logo="https://images.pluto.tv/channels/63335df531a7590007c226b9/colorLogoPNG_1781050123940.png" group-title="Entertainment",Pluto TV Christmas in July
+https://jmp2.uk/plu-63335df531a7590007c226b9.m3u8
 #EXTINF:-1 channel-id="6176fd25e83a5f0007a464c9" tvg-id="6176fd25e83a5f0007a464c9" tvg-chno="8100" tvg-name="Bounce XL" tvg-logo="https://images.pluto.tv/channels/6176fd25e83a5f0007a464c9/colorLogoPNG.png" group-title="Entertainment",Bounce XL
 https://jmp2.uk/plu-6176fd25e83a5f0007a464c9.m3u8
 #EXTINF:-1 channel-id="6793ea255225b515b4ba91a7" tvg-id="6793ea255225b515b4ba91a7" tvg-chno="8103" tvg-name="ALLBLK Gems" tvg-logo="https://images.pluto.tv/channels/6793ea255225b515b4ba91a7/colorLogoPNG.png" group-title="Entertainment",ALLBLK Gems
 https://jmp2.uk/plu-6793ea255225b515b4ba91a7.m3u8
+#EXTINF:-1 channel-id="5d9ccd538661290009ecbdb7" tvg-id="5d9ccd538661290009ecbdb7" tvg-chno="8104" tvg-name="Pluto TV Mistletoe" tvg-logo="https://images.pluto.tv/channels/5d9ccd538661290009ecbdb7/colorLogoPNG_1762555055191.png" group-title="Christmas In July",Pluto TV Mistletoe
+https://jmp2.uk/plu-5d9ccd538661290009ecbdb7.m3u8
+#EXTINF:-1 channel-id="68f690e7a25ba0aab32bed92" tvg-id="68f690e7a25ba0aab32bed92" tvg-chno="8105" tvg-name="BET Holiday Movies" tvg-logo="https://images.pluto.tv/channels/68f690e7a25ba0aab32bed92/colorLogoPNG_1760989733981.png" group-title="Christmas In July",BET Holiday Movies
+https://jmp2.uk/plu-68f690e7a25ba0aab32bed92.m3u8
 #EXTINF:-1 channel-id="5ca672f515a62078d2ec0ad2" tvg-id="5ca672f515a62078d2ec0ad2" tvg-chno="8140" tvg-name="MTV Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ca672f515a62078d2ec0ad2/colorLogoPNG.png" group-title="Entertainment",MTV Pluto TV
 https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
 #EXTINF:-1 channel-id="5ce5a8954311f992edbe1da2" tvg-id="5ce5a8954311f992edbe1da2" tvg-chno="8160" tvg-name="Logo Pluto TV" tvg-logo="https://images.pluto.tv/channels/5ce5a8954311f992edbe1da2/colorLogoPNG_1731836723261.png" group-title="Entertainment",Logo Pluto TV
