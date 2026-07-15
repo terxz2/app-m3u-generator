@@ -145,15 +145,17 @@ https://jmp2.uk/plu-685a996c7c4f2ad40cb4f276.m3u8
 https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
 #EXTINF:-1 channel-id="680ba8c3a48b3ead0db701cc" tvg-id="680ba8c3a48b3ead0db701cc" tvg-chno="6303" tvg-name="Los caballeros del Zodiaco" tvg-logo="https://images.pluto.tv/channels/680ba8c3a48b3ead0db701cc/colorLogoPNG_1758616347633.png" group-title="Anime",Los caballeros del Zodiaco
 https://jmp2.uk/plu-680ba8c3a48b3ead0db701cc.m3u8
-#EXTINF:-1 channel-id="683457e5f59cc6a13212fce4" tvg-id="683457e5f59cc6a13212fce4" tvg-chno="6304" tvg-name="Lupin" tvg-logo="https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/colorLogoPNG_1754485275244.png" group-title="Anime",Lupin
+#EXTINF:-1 channel-id="61373c865ed5810007173fbc" tvg-id="61373c865ed5810007173fbc" tvg-chno="6304" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png" group-title="Anime",Avatar
+https://jmp2.uk/plu-61373c865ed5810007173fbc.m3u8
+#EXTINF:-1 channel-id="683457e5f59cc6a13212fce4" tvg-id="683457e5f59cc6a13212fce4" tvg-chno="6305" tvg-name="Lupin" tvg-logo="https://images.pluto.tv/channels/683457e5f59cc6a13212fce4/colorLogoPNG_1754485275244.png" group-title="Anime",Lupin
 https://jmp2.uk/plu-683457e5f59cc6a13212fce4.m3u8
-#EXTINF:-1 channel-id="632c6df43d2bc5000751f621" tvg-id="632c6df43d2bc5000751f621" tvg-chno="6305" tvg-name="Inazuma Eleven" tvg-logo="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png" group-title="Anime",Inazuma Eleven
+#EXTINF:-1 channel-id="632c6df43d2bc5000751f621" tvg-id="632c6df43d2bc5000751f621" tvg-chno="6306" tvg-name="Inazuma Eleven" tvg-logo="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png" group-title="Anime",Inazuma Eleven
 https://jmp2.uk/plu-632c6df43d2bc5000751f621.m3u8
-#EXTINF:-1 channel-id="608035b8d8705f0007260287" tvg-id="608035b8d8705f0007260287" tvg-chno="6306" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png" group-title="Anime",Pluto TV Anime
+#EXTINF:-1 channel-id="608035b8d8705f0007260287" tvg-id="608035b8d8705f0007260287" tvg-chno="6307" tvg-name="Pluto TV Anime" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png" group-title="Anime",Pluto TV Anime
 https://jmp2.uk/plu-608035b8d8705f0007260287.m3u8
-#EXTINF:-1 channel-id="63eb96754e83e70008ab8941" tvg-id="63eb96754e83e70008ab8941" tvg-chno="6307" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png" group-title="Anime",Yu-Gi-Oh!
+#EXTINF:-1 channel-id="63eb96754e83e70008ab8941" tvg-id="63eb96754e83e70008ab8941" tvg-chno="6308" tvg-name="Yu-Gi-Oh!" tvg-logo="https://images.pluto.tv/channels/63eb96754e83e70008ab8941/colorLogoPNG.png" group-title="Anime",Yu-Gi-Oh!
 https://jmp2.uk/plu-63eb96754e83e70008ab8941.m3u8
-#EXTINF:-1 channel-id="680ba8992472a7200a183eb5" tvg-id="680ba8992472a7200a183eb5" tvg-chno="6309" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/680ba8992472a7200a183eb5/colorLogoPNG_1748955630923.png" group-title="Anime",One Piece
+#EXTINF:-1 channel-id="680ba8992472a7200a183eb5" tvg-id="680ba8992472a7200a183eb5" tvg-chno="6310" tvg-name="One Piece" tvg-logo="https://images.pluto.tv/channels/680ba8992472a7200a183eb5/colorLogoPNG_1748955630923.png" group-title="Anime",One Piece
 https://jmp2.uk/plu-680ba8992472a7200a183eb5.m3u8
 #EXTINF:-1 channel-id="628751bb7154a40007168843" tvg-id="628751bb7154a40007168843" tvg-chno="6320" tvg-name="South Park" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="Comedia",South Park
 https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
@@ -175,7 +177,7 @@ https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 https://jmp2.uk/plu-65dded9a0d456100081417ae.m3u8
 #EXTINF:-1 channel-id="65ddec1ef7f0af0008be4b65" tvg-id="65ddec1ef7f0af0008be4b65" tvg-chno="6333" tvg-name="Pluto TV Series Sci-Fi" tvg-logo="https://images.pluto.tv/channels/65ddec1ef7f0af0008be4b65/colorLogoPNG.png" group-title="Ciencia Ficción",Pluto TV Series Sci-Fi
 https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8
-#EXTINF:-1 channel-id="69c5100c3d2597380f0f6422" tvg-id="69c5100c3d2597380f0f6422" tvg-chno="6351" tvg-name="Gata salvaje" tvg-logo="https://images.pluto.tv/missing.png" group-title="Más series",Gata salvaje
+#EXTINF:-1 channel-id="69c5100c3d2597380f0f6422" tvg-id="69c5100c3d2597380f0f6422" tvg-chno="6351" tvg-name="Gata salvaje" tvg-logo="https://images.pluto.tv/channels/69c5100c3d2597380f0f6422/colorLogoPNG_1784105533317.png" group-title="Más series",Gata salvaje
 https://jmp2.uk/plu-69c5100c3d2597380f0f6422.m3u8
 #EXTINF:-1 channel-id="662a69daa0a74e00087a1c72" tvg-id="662a69daa0a74e00087a1c72" tvg-chno="6352" tvg-name="Pluto TV Telenovelas Clásicas" tvg-logo="https://images.pluto.tv/channels/662a69daa0a74e00087a1c72/colorLogoPNG.png" group-title="Más series",Pluto TV Telenovelas Clásicas
 https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
