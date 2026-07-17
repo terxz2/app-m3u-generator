@@ -1,18 +1,18 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/se.xml.gz"
-#EXTINF:-1 channel-id="6964b9560e5b3f70cc9263bc" tvg-id="6964b9560e5b3f70cc9263bc" tvg-chno="6001" tvg-name="Tidlösa klassiker från Viafree" tvg-logo="https://images.pluto.tv/channels/6964b9560e5b3f70cc9263bc/colorLogoPNG_1771833445916.png" group-title="Nytt på Pluto TV",Tidlösa klassiker från Viafree
+#EXTINF:-1 channel-id="69e100b7805a68fcc951e433" tvg-id="69e100b7805a68fcc951e433" tvg-chno="6001" tvg-name="Pluto TV Urbex" tvg-logo="https://images.pluto.tv/channels/69e100b7805a68fcc951e433/colorLogoPNG_1777465703292.png" group-title="Nytt på Pluto TV",Pluto TV Urbex
+https://jmp2.uk/plu-69e100b7805a68fcc951e433.m3u8
+#EXTINF:-1 channel-id="685140f121f49d1b9d178249" tvg-id="685140f121f49d1b9d178249" tvg-chno="6002" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/685140f121f49d1b9d178249/colorLogoPNG_1783679564673.png" group-title="Nytt på Pluto TV",MTV Ink Master
+https://jmp2.uk/plu-685140f121f49d1b9d178249.m3u8
+#EXTINF:-1 channel-id="6964b9560e5b3f70cc9263bc" tvg-id="6964b9560e5b3f70cc9263bc" tvg-chno="6003" tvg-name="Tidlösa klassiker från Viafree" tvg-logo="https://images.pluto.tv/channels/6964b9560e5b3f70cc9263bc/colorLogoPNG_1771833445916.png" group-title="Nytt på Pluto TV",Tidlösa klassiker från Viafree
 https://jmp2.uk/plu-6964b9560e5b3f70cc9263bc.m3u8
-#EXTINF:-1 channel-id="69afee7a3bd16a4ed071080d" tvg-id="69afee7a3bd16a4ed071080d" tvg-chno="6002" tvg-name="From Dusk Till Dawn: The Series" tvg-logo="https://images.pluto.tv/channels/69afee7a3bd16a4ed071080d/colorLogoPNG_1778675522972.png" group-title="Nytt på Pluto TV",From Dusk Till Dawn: The Series
+#EXTINF:-1 channel-id="69afee7a3bd16a4ed071080d" tvg-id="69afee7a3bd16a4ed071080d" tvg-chno="6004" tvg-name="From Dusk Till Dawn: The Series" tvg-logo="https://images.pluto.tv/channels/69afee7a3bd16a4ed071080d/colorLogoPNG_1778675522972.png" group-title="Nytt på Pluto TV",From Dusk Till Dawn: The Series
 https://jmp2.uk/plu-69afee7a3bd16a4ed071080d.m3u8
-#EXTINF:-1 channel-id="69c2949dfb6a5281bc12c817" tvg-id="69c2949dfb6a5281bc12c817" tvg-chno="6003" tvg-name="CNN Headlines International" tvg-logo="https://images.pluto.tv/channels/69c2949dfb6a5281bc12c817/colorLogoPNG_1779186726408.png" group-title="Nytt på Pluto TV",CNN Headlines International
+#EXTINF:-1 channel-id="69c2949dfb6a5281bc12c817" tvg-id="69c2949dfb6a5281bc12c817" tvg-chno="6005" tvg-name="CNN Headlines International" tvg-logo="https://images.pluto.tv/channels/69c2949dfb6a5281bc12c817/colorLogoPNG_1779186726408.png" group-title="Nytt på Pluto TV",CNN Headlines International
 https://jmp2.uk/plu-69c2949dfb6a5281bc12c817.m3u8
 #EXTINF:-1 channel-id="69d7a0dc805a68fcc92037b7" tvg-id="69d7a0dc805a68fcc92037b7" tvg-chno="6007" tvg-name="Best of Magnus Midtbø" tvg-logo="https://images.pluto.tv/channels/69d7a0dc805a68fcc92037b7/colorLogoPNG_1776698337555.png" group-title="Nytt på Pluto TV",Best of Magnus Midtbø
 https://jmp2.uk/plu-69d7a0dc805a68fcc92037b7.m3u8
 #EXTINF:-1 channel-id="685139b0f7d8b74b62f41c96" tvg-id="685139b0f7d8b74b62f41c96" tvg-chno="6009" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/685139b0f7d8b74b62f41c96/colorLogoPNG_1783323490759.png" group-title="Nytt på Pluto TV",MTV Reality
 https://jmp2.uk/plu-685139b0f7d8b74b62f41c96.m3u8
-#EXTINF:-1 channel-id="691ed77b1308fa77bb2d5562" tvg-id="691ed77b1308fa77bb2d5562" tvg-chno="6011" tvg-name="Inter 24/7" tvg-logo="https://images.pluto.tv/channels/691ed77b1308fa77bb2d5562/colorLogoPNG_1775047038535.png" group-title="Nytt på Pluto TV",Inter 24/7
-https://jmp2.uk/plu-691ed77b1308fa77bb2d5562.m3u8
-#EXTINF:-1 channel-id="69b16e2b65c1df7564fc750b" tvg-id="69b16e2b65c1df7564fc750b" tvg-chno="6013" tvg-name="Space Live" tvg-logo="https://images.pluto.tv/channels/69b16e2b65c1df7564fc750b/colorLogoPNG_1775118637657.png" group-title="Nytt på Pluto TV",Space Live
-https://jmp2.uk/plu-69b16e2b65c1df7564fc750b.m3u8
 #EXTINF:-1 channel-id="61c18e1e0cd4cc00076bc4b3" tvg-id="61c18e1e0cd4cc00076bc4b3" tvg-chno="6021" tvg-name="Paradise Hotel" tvg-logo="https://images.pluto.tv/channels/61c18e1e0cd4cc00076bc4b3/colorLogoPNG.png" group-title="Paradise Hotel",Paradise Hotel
 https://jmp2.uk/plu-61c18e1e0cd4cc00076bc4b3.m3u8
 #EXTINF:-1 channel-id="65e97cd118036500082ed0ce" tvg-id="65e97cd118036500082ed0ce" tvg-chno="6023" tvg-name="Best of Paradise Hotel: Skolveckan" tvg-logo="https://images.pluto.tv/channels/65e97cd118036500082ed0ce/colorLogoPNG.png" group-title="Paradise Hotel",Best of Paradise Hotel: Skolveckan
@@ -83,6 +83,8 @@ https://jmp2.uk/plu-620239894757070008d4812d.m3u8
 https://jmp2.uk/plu-68ac52fac9b5923e0585578b.m3u8
 #EXTINF:-1 channel-id="66461f433d173b000805eeeb" tvg-id="66461f433d173b000805eeeb" tvg-chno="6120" tvg-name="DFB Play TV" tvg-logo="https://images.pluto.tv/channels/66461f433d173b000805eeeb/colorLogoPNG_1769414859996.png" group-title="Sport",DFB Play TV
 https://jmp2.uk/plu-66461f433d173b000805eeeb.m3u8
+#EXTINF:-1 channel-id="691ed77b1308fa77bb2d5562" tvg-id="691ed77b1308fa77bb2d5562" tvg-chno="6121" tvg-name="Inter 24/7" tvg-logo="https://images.pluto.tv/channels/691ed77b1308fa77bb2d5562/colorLogoPNG_1775047038535.png" group-title="Sport",Inter 24/7
+https://jmp2.uk/plu-691ed77b1308fa77bb2d5562.m3u8
 #EXTINF:-1 channel-id="660d7232635c75000828c95a" tvg-id="660d7232635c75000828c95a" tvg-chno="6122" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/660d7232635c75000828c95a/colorLogoPNG.png" group-title="Sport",Realmadrid TV
 https://jmp2.uk/plu-660d7232635c75000828c95a.m3u8
 #EXTINF:-1 channel-id="660bfcd07bcd860008796ae8" tvg-id="660bfcd07bcd860008796ae8" tvg-chno="6124" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660bfcd07bcd860008796ae8/colorLogoPNG_1750064568643.png" group-title="Sport",FIFA+
@@ -327,6 +329,8 @@ https://jmp2.uk/plu-62cdad7b5c38c00007f566c2.m3u8
 https://jmp2.uk/plu-6578875614fbe400086e319e.m3u8
 #EXTINF:-1 channel-id="62b1e2498261390007f25c98" tvg-id="62b1e2498261390007f25c98" tvg-chno="6752" tvg-name="Pluto TV Dokumentär" tvg-logo="https://images.pluto.tv/channels/62b1e2498261390007f25c98/colorLogoPNG.png" group-title="Dokumentärer",Pluto TV Dokumentär
 https://jmp2.uk/plu-62b1e2498261390007f25c98.m3u8
+#EXTINF:-1 channel-id="69b16e2b65c1df7564fc750b" tvg-id="69b16e2b65c1df7564fc750b" tvg-chno="6753" tvg-name="Space Live" tvg-logo="https://images.pluto.tv/channels/69b16e2b65c1df7564fc750b/colorLogoPNG_1775118637657.png" group-title="Dokumentärer",Space Live
+https://jmp2.uk/plu-69b16e2b65c1df7564fc750b.m3u8
 #EXTINF:-1 channel-id="677d3ad04bd63600082f7c54" tvg-id="677d3ad04bd63600082f7c54" tvg-chno="6754" tvg-name="Pluto TV Världskrigen" tvg-logo="https://images.pluto.tv/channels/677d3ad04bd63600082f7c54/colorLogoPNG_1759445391825.png" group-title="Dokumentärer",Pluto TV Världskrigen
 https://jmp2.uk/plu-677d3ad04bd63600082f7c54.m3u8
 #EXTINF:-1 channel-id="657887d9dfed030008ce8aa8" tvg-id="657887d9dfed030008ce8aa8" tvg-chno="6760" tvg-name="I Survived" tvg-logo="https://images.pluto.tv/channels/657887d9dfed030008ce8aa8/colorLogoPNG.png" group-title="Dokumentärer",I Survived

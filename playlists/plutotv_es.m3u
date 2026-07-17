@@ -1,4 +1,8 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/es.xml.gz"
+#EXTINF:-1 channel-id="6a0c25fe09705ebdf7e4599a" tvg-id="6a0c25fe09705ebdf7e4599a" tvg-chno="6020" tvg-name="Pippi Calzaslargas" tvg-logo="https://images.pluto.tv/channels/6a0c25fe09705ebdf7e4599a/colorLogoPNG_1780925919473.png" group-title="Nuevo en Pluto TV",Pippi Calzaslargas
+https://jmp2.uk/plu-6a0c25fe09705ebdf7e4599a.m3u8
+#EXTINF:-1 channel-id="600169ec77e6f70008fa9cf0" tvg-id="600169ec77e6f70008fa9cf0" tvg-chno="6025" tvg-name="MTV Ink Master" tvg-logo="https://images.pluto.tv/channels/600169ec77e6f70008fa9cf0/colorLogoPNG_1783599834588.png" group-title="Nuevo en Pluto TV",MTV Ink Master
+https://jmp2.uk/plu-600169ec77e6f70008fa9cf0.m3u8
 #EXTINF:-1 channel-id="6a0c25d1c3b9403659196293" tvg-id="6a0c25d1c3b9403659196293" tvg-chno="6028" tvg-name="Terapia con Charlie" tvg-logo="https://images.pluto.tv/channels/6a0c25d1c3b9403659196293/colorLogoPNG_1780923463926.png" group-title="Nuevo en Pluto TV",Terapia con Charlie
 https://jmp2.uk/plu-6a0c25d1c3b9403659196293.m3u8
 #EXTINF:-1 channel-id="69f0bb1a00ad62de02a6b716" tvg-id="69f0bb1a00ad62de02a6b716" tvg-chno="6040" tvg-name="Pluto TV Fútbol" tvg-logo="https://images.pluto.tv/channels/69f0bb1a00ad62de02a6b716/colorLogoPNG_1777475097079.png" group-title="Pluto TV Fútbol",Pluto TV Fútbol
@@ -275,8 +279,6 @@ https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
 https://jmp2.uk/plu-627d3176d7dfa500077042f1.m3u8
 #EXTINF:-1 channel-id="6130d8dc943001000708548d" tvg-id="6130d8dc943001000708548d" tvg-chno="6654" tvg-name="MTV Reality" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG_1783323270470.png" group-title="MTV en Pluto TV",MTV Reality
 https://jmp2.uk/plu-6130d8dc943001000708548d.m3u8
-#EXTINF:-1 channel-id="611b87946b7f420007c22361" tvg-id="611b87946b7f420007c22361" tvg-chno="6656" tvg-name="MTV Tattoo a dos" tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Tattoo a dos
-https://jmp2.uk/plu-611b87946b7f420007c22361.m3u8
 #EXTINF:-1 channel-id="5f98537a5a4341000733aefe" tvg-id="5f98537a5a4341000733aefe" tvg-chno="6657" tvg-name="MTV Embarazada a los 16" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Embarazada a los 16
 https://jmp2.uk/plu-5f98537a5a4341000733aefe.m3u8
 #EXTINF:-1 channel-id="604f81a49ef73300070e554f" tvg-id="604f81a49ef73300070e554f" tvg-chno="6658" tvg-name="MTV Teen Mom" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="MTV en Pluto TV",MTV Teen Mom

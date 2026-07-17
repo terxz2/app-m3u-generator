@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/fr.xml.gz"
+#EXTINF:-1 channel-id="682318568e6c0f2f6c6e0038" tvg-id="682318568e6c0f2f6c6e0038" tvg-chno="6009" tvg-name="Ink Master" tvg-logo="https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/colorLogoPNG_1784122185248.png" group-title="Nouveau sur Pluto TV",Ink Master
+https://jmp2.uk/plu-682318568e6c0f2f6c6e0038.m3u8
 #EXTINF:-1 channel-id="691b334a1308fa77bb056b0e" tvg-id="691b334a1308fa77bb056b0e" tvg-chno="6010" tvg-name="La Moderna" tvg-logo="https://images.pluto.tv/channels/691b334a1308fa77bb056b0e/colorLogoPNG_1771231492608.png" group-title="Nouveau sur Pluto TV",La Moderna
 https://jmp2.uk/plu-691b334a1308fa77bb056b0e.m3u8
 #EXTINF:-1 channel-id="691b33ae8a64bd1811e923f2" tvg-id="691b33ae8a64bd1811e923f2" tvg-chno="6011" tvg-name="Les vacances de l'amour" tvg-logo="https://images.pluto.tv/channels/691b33ae8a64bd1811e923f2/colorLogoPNG_1771923699657.png" group-title="Nouveau sur Pluto TV",Les vacances de l'amour
@@ -127,10 +129,10 @@ https://jmp2.uk/plu-63921a3d00c96100082a3cb4.m3u8
 https://jmp2.uk/plu-63921a1bf76e7d0007c998a6.m3u8
 #EXTINF:-1 channel-id="6683b680efa2a10008e8a393" tvg-id="6683b680efa2a10008e8a393" tvg-chno="6505" tvg-name="Daria" tvg-logo="https://images.pluto.tv/channels/6683b680efa2a10008e8a393/colorLogoPNG.png" group-title="Animation",Daria
 https://jmp2.uk/plu-6683b680efa2a10008e8a393.m3u8
-#EXTINF:-1 channel-id="69c2ae0d1f1accd54916c825" tvg-id="69c2ae0d1f1accd54916c825" tvg-chno="6506" tvg-name="Pluto TV Footanim'" tvg-logo="https://images.pluto.tv/channels/69c2ae0d1f1accd54916c825/colorLogoPNG_1776860789196.png" group-title="Animation",Pluto TV Footanim'
-https://jmp2.uk/plu-69c2ae0d1f1accd54916c825.m3u8
 #EXTINF:-1 channel-id="62f3e8ad2a8e8000077b013d" tvg-id="62f3e8ad2a8e8000077b013d" tvg-chno="6506" tvg-name="Detective Conan" tvg-logo="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/colorLogoPNG-1745586573083.png" group-title="Animation",Detective Conan
 https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
+#EXTINF:-1 channel-id="69c2ae0d1f1accd54916c825" tvg-id="69c2ae0d1f1accd54916c825" tvg-chno="6506" tvg-name="Pluto TV Footanim'" tvg-logo="https://images.pluto.tv/channels/69c2ae0d1f1accd54916c825/colorLogoPNG_1776860789196.png" group-title="Animation",Pluto TV Footanim'
+https://jmp2.uk/plu-69c2ae0d1f1accd54916c825.m3u8
 #EXTINF:-1 channel-id="691b3669c48674840c3b832a" tvg-id="691b3669c48674840c3b832a" tvg-chno="6507" tvg-name="Pluto TV ANIME GO!" tvg-logo="https://images.pluto.tv/channels/691b3669c48674840c3b832a/colorLogoPNG_1778491402325.png" group-title="Animation",Pluto TV ANIME GO!
 https://jmp2.uk/plu-691b3669c48674840c3b832a.m3u8
 #EXTINF:-1 channel-id="69aadcdb6c0414a7ecb56ede" tvg-id="69aadcdb6c0414a7ecb56ede" tvg-chno="6508" tvg-name="Pluto TV Anime Retro" tvg-logo="https://images.pluto.tv/channels/69aadcdb6c0414a7ecb56ede/colorLogoPNG_1776867912150.png" group-title="Animation",Pluto TV Anime Retro
