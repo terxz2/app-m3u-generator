@@ -3851,6 +3851,8 @@ https://jmp2.uk/plu-5c5c2e9d8002db3c3e0b1c72.m3u8
 https://jmp2.uk/plu-63dac28760bc8f0008a7654b.m3u8
 #EXTINF:-1 channel-id="61f33318210549000806a530-us" tvg-id="61f33318210549000806a530" tvg-chno="6835" tvg-name="Classic Movie Westerns" tvg-logo="https://images.pluto.tv/channels/61f33318210549000806a530/colorLogoPNG.png" group-title="United States",Classic Movie Westerns
 https://jmp2.uk/plu-61f33318210549000806a530.m3u8
+#EXTINF:-1 channel-id="63d91d624e83e7000881ca8c-gb" tvg-id="63d91d624e83e7000881ca8c" tvg-chno="6835" tvg-name="Escape to the Country" tvg-logo="https://images.pluto.tv/channels/63d91d624e83e7000881ca8c/colorLogoPNG.png" group-title="United Kingdom",Escape to the Country
+https://jmp2.uk/plu-63d91d624e83e7000881ca8c.m3u8
 #EXTINF:-1 channel-id="62ea45010d0611000839868c-ca" tvg-id="62ea45010d0611000839868c" tvg-chno="6835" tvg-name="Gordon Ramsay's Hell's Kitchen" tvg-logo="https://images.pluto.tv/channels/62ea45010d0611000839868c/colorLogoPNG.png" group-title="Canada",Gordon Ramsay's Hell's Kitchen
 https://jmp2.uk/plu-62ea45010d0611000839868c.m3u8
 #EXTINF:-1 channel-id="6888ee858f4a4aa11feb9430-br" tvg-id="6888ee858f4a4aa11feb9430" tvg-chno="6835" tvg-name="Top Barça" tvg-logo="https://images.pluto.tv/channels/6888ee858f4a4aa11feb9430/colorLogoPNG_1753987309681.png" group-title="Brazil",Top Barça
@@ -3863,14 +3865,12 @@ https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
 https://jmp2.uk/plu-655ca7405812e80008883d4e.m3u8
 #EXTINF:-1 channel-id="6320d80a66666000086712d7-ar" tvg-id="6320d80a66666000086712d7" tvg-chno="6835" tvg-name="Claro Sports" tvg-logo="https://images.pluto.tv/channels/6320d80a66666000086712d7/colorLogoPNG_1770390122405.png" group-title="Argentina",Claro Sports
 https://jmp2.uk/plu-6320d80a66666000086712d7.m3u8
-#EXTINF:-1 channel-id="63d91d624e83e7000881ca8c-gb" tvg-id="63d91d624e83e7000881ca8c" tvg-chno="6836" tvg-name="Escape to the Country" tvg-logo="https://images.pluto.tv/channels/63d91d624e83e7000881ca8c/colorLogoPNG.png" group-title="United Kingdom",Escape to the Country
-https://jmp2.uk/plu-63d91d624e83e7000881ca8c.m3u8
-#EXTINF:-1 channel-id="66f135b45e4a6e0008b80606-gb" tvg-id="66f135b45e4a6e0008b80606" tvg-chno="6837" tvg-name="Antiques Road Trip" tvg-logo="https://images.pluto.tv/channels/66f135b45e4a6e0008b80606/colorLogoPNG.png" group-title="United Kingdom",Antiques Road Trip
+#EXTINF:-1 channel-id="66f135b45e4a6e0008b80606-gb" tvg-id="66f135b45e4a6e0008b80606" tvg-chno="6836" tvg-name="Antiques Road Trip" tvg-logo="https://images.pluto.tv/channels/66f135b45e4a6e0008b80606/colorLogoPNG.png" group-title="United Kingdom",Antiques Road Trip
 https://jmp2.uk/plu-66f135b45e4a6e0008b80606.m3u8
+#EXTINF:-1 channel-id="677fb137a5d8215f99b9cc06-gb" tvg-id="677fb137a5d8215f99b9cc06" tvg-chno="6837" tvg-name="Top Chef" tvg-logo="https://images.pluto.tv/channels/677fb137a5d8215f99b9cc06/colorLogoPNG_1761664673466.png" group-title="United Kingdom",Top Chef
+https://jmp2.uk/plu-677fb137a5d8215f99b9cc06.m3u8
 #EXTINF:-1 channel-id="62beb692cda2b10007d5fd76-dk" tvg-id="62beb692cda2b10007d5fd76" tvg-chno="6837" tvg-name="Best of The Drew Barrymore Show" tvg-logo="https://images.pluto.tv/channels/62beb692cda2b10007d5fd76/colorLogoPNG.png" group-title="Denmark",Best of The Drew Barrymore Show
 https://jmp2.uk/plu-62beb692cda2b10007d5fd76.m3u8
-#EXTINF:-1 channel-id="677fb137a5d8215f99b9cc06-gb" tvg-id="677fb137a5d8215f99b9cc06" tvg-chno="6838" tvg-name="Top Chef" tvg-logo="https://images.pluto.tv/channels/677fb137a5d8215f99b9cc06/colorLogoPNG_1761664673466.png" group-title="United Kingdom",Top Chef
-https://jmp2.uk/plu-677fb137a5d8215f99b9cc06.m3u8
 #EXTINF:-1 channel-id="698a040b48d98175cb870fc5-gb" tvg-id="698a040b48d98175cb870fc5" tvg-chno="6838" tvg-name="Hoarders" tvg-logo="https://images.pluto.tv/channels/698a040b48d98175cb870fc5/colorLogoPNG_1771343157070.png" group-title="United Kingdom",Hoarders
 https://jmp2.uk/plu-698a040b48d98175cb870fc5.m3u8
 #EXTINF:-1 channel-id="677fb3432952c1163bf1a539-gb" tvg-id="677fb3432952c1163bf1a539" tvg-chno="6839" tvg-name="Million Dollar Listing" tvg-logo="https://images.pluto.tv/channels/677fb3432952c1163bf1a539/colorLogoPNG_1761664837789.png" group-title="United Kingdom",Million Dollar Listing
@@ -5399,8 +5399,6 @@ https://jmp2.uk/plu-65c69b683ba51e00084534a3.m3u8
 https://jmp2.uk/plu-6400f731d200410008f9b339.m3u8
 #EXTINF:-1 channel-id="63b48016d9dd51000828fa37-us" tvg-id="63b48016d9dd51000828fa37" tvg-chno="8990" tvg-name="POWERNATION" tvg-logo="https://images.pluto.tv/channels/63b48016d9dd51000828fa37/colorLogoPNG.png" group-title="United States",POWERNATION
 https://jmp2.uk/plu-63b48016d9dd51000828fa37.m3u8
-#EXTINF:-1 channel-id="650b68bc2ce8e40008ac9c14-us" tvg-id="650b68bc2ce8e40008ac9c14" tvg-chno="9003" tvg-name="FanDuel TV Extra" tvg-logo="https://images.pluto.tv/channels/650b68bc2ce8e40008ac9c14/colorLogoPNG_1744930668027.png" group-title="United States",FanDuel TV Extra
-https://jmp2.uk/plu-650b68bc2ce8e40008ac9c14.m3u8
 #EXTINF:-1 channel-id="5bb3fea0f711fd76340eebff-us" tvg-id="5bb3fea0f711fd76340eebff" tvg-chno="9080" tvg-name="Pluto TV Military" tvg-logo="https://images.pluto.tv/channels/5bb3fea0f711fd76340eebff/colorLogoPNG.png" group-title="United States",Pluto TV Military
 https://jmp2.uk/plu-5bb3fea0f711fd76340eebff.m3u8
 #EXTINF:-1 channel-id="5a4d35dfa5c02e717a234f86-us" tvg-id="5a4d35dfa5c02e717a234f86" tvg-chno="9090" tvg-name="Pluto TV History" tvg-logo="https://images.pluto.tv/channels/5a4d35dfa5c02e717a234f86/colorLogoPNG.png" group-title="United States",Pluto TV History
