@@ -1,20 +1,20 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz"
-#EXTINF:-1 channel-id="69c3c6c912e978ee49277dc7" tvg-id="69c3c6c912e978ee49277dc7" tvg-chno="6001" tvg-name="That's 60s" tvg-logo="https://images.pluto.tv/channels/69c3c6c912e978ee49277dc7/colorLogoPNG_1779185580246.png" group-title="New on Pluto TV",That's 60s
+#EXTINF:-1 channel-id="6a300571cdfd39da91df9159" tvg-id="6a300571cdfd39da91df9159" tvg-chno="6001" tvg-name="Pluto TV Crime Thrillers" tvg-logo="https://images.pluto.tv/channels/6a300571cdfd39da91df9159/colorLogoPNG_1784552750944.png" group-title="New on Pluto TV",Pluto TV Crime Thrillers
+https://jmp2.uk/plu-6a300571cdfd39da91df9159.m3u8
+#EXTINF:-1 channel-id="69c3c6c912e978ee49277dc7" tvg-id="69c3c6c912e978ee49277dc7" tvg-chno="6002" tvg-name="That's 60s" tvg-logo="https://images.pluto.tv/channels/69c3c6c912e978ee49277dc7/colorLogoPNG_1779185580246.png" group-title="New on Pluto TV",That's 60s
 https://jmp2.uk/plu-69c3c6c912e978ee49277dc7.m3u8
-#EXTINF:-1 channel-id="69b91797611b4a9fce103037" tvg-id="69b91797611b4a9fce103037" tvg-chno="6002" tvg-name="That Peter Crouch Podcast" tvg-logo="https://images.pluto.tv/channels/69b91797611b4a9fce103037/colorLogoPNG_1776258946102.png" group-title="New on Pluto TV",That Peter Crouch Podcast
+#EXTINF:-1 channel-id="69b91797611b4a9fce103037" tvg-id="69b91797611b4a9fce103037" tvg-chno="6003" tvg-name="That Peter Crouch Podcast" tvg-logo="https://images.pluto.tv/channels/69b91797611b4a9fce103037/colorLogoPNG_1776258946102.png" group-title="New on Pluto TV",That Peter Crouch Podcast
 https://jmp2.uk/plu-69b91797611b4a9fce103037.m3u8
-#EXTINF:-1 channel-id="62cbdc45d3cb9f0007128df4" tvg-id="62cbdc45d3cb9f0007128df4" tvg-chno="6003" tvg-name="Pluto TV Christmas in Summer" tvg-logo="https://images.pluto.tv/channels/62cbdc45d3cb9f0007128df4/colorLogoPNG_1782825089633.png" group-title="New on Pluto TV",Pluto TV Christmas in Summer
+#EXTINF:-1 channel-id="62cbdc45d3cb9f0007128df4" tvg-id="62cbdc45d3cb9f0007128df4" tvg-chno="6004" tvg-name="Pluto TV Christmas in Summer" tvg-logo="https://images.pluto.tv/channels/62cbdc45d3cb9f0007128df4/colorLogoPNG_1782825089633.png" group-title="New on Pluto TV",Pluto TV Christmas in Summer
 https://jmp2.uk/plu-62cbdc45d3cb9f0007128df4.m3u8
-#EXTINF:-1 channel-id="69b917d632eb9227dd6b427e" tvg-id="69b917d632eb9227dd6b427e" tvg-chno="6004" tvg-name="The Therapy Crouch" tvg-logo="https://images.pluto.tv/channels/69b917d632eb9227dd6b427e/colorLogoPNG_1775836696076.png" group-title="New on Pluto TV",The Therapy Crouch
+#EXTINF:-1 channel-id="69b917d632eb9227dd6b427e" tvg-id="69b917d632eb9227dd6b427e" tvg-chno="6005" tvg-name="The Therapy Crouch" tvg-logo="https://images.pluto.tv/channels/69b917d632eb9227dd6b427e/colorLogoPNG_1775836696076.png" group-title="New on Pluto TV",The Therapy Crouch
 https://jmp2.uk/plu-69b917d632eb9227dd6b427e.m3u8
-#EXTINF:-1 channel-id="69c6a93486431735d974bc2a" tvg-id="69c6a93486431735d974bc2a" tvg-chno="6005" tvg-name="Deal Masters" tvg-logo="https://images.pluto.tv/channels/69c6a93486431735d974bc2a/colorLogoPNG_1778165757861.png" group-title="New on Pluto TV",Deal Masters
+#EXTINF:-1 channel-id="69c6a93486431735d974bc2a" tvg-id="69c6a93486431735d974bc2a" tvg-chno="6006" tvg-name="Deal Masters" tvg-logo="https://images.pluto.tv/channels/69c6a93486431735d974bc2a/colorLogoPNG_1778165757861.png" group-title="New on Pluto TV",Deal Masters
 https://jmp2.uk/plu-69c6a93486431735d974bc2a.m3u8
-#EXTINF:-1 channel-id="69d51f98fcb9bf5e303ca0c1" tvg-id="69d51f98fcb9bf5e303ca0c1" tvg-chno="6006" tvg-name="Dinner Date" tvg-logo="https://images.pluto.tv/channels/69d51f98fcb9bf5e303ca0c1/colorLogoPNG_1777472699054.png" group-title="New on Pluto TV",Dinner Date
+#EXTINF:-1 channel-id="69d51f98fcb9bf5e303ca0c1" tvg-id="69d51f98fcb9bf5e303ca0c1" tvg-chno="6007" tvg-name="Dinner Date" tvg-logo="https://images.pluto.tv/channels/69d51f98fcb9bf5e303ca0c1/colorLogoPNG_1777472699054.png" group-title="New on Pluto TV",Dinner Date
 https://jmp2.uk/plu-69d51f98fcb9bf5e303ca0c1.m3u8
-#EXTINF:-1 channel-id="65819fc1b9adc4000813f37d" tvg-id="65819fc1b9adc4000813f37d" tvg-chno="6007" tvg-name="History Hunters" tvg-logo="https://images.pluto.tv/channels/65819fc1b9adc4000813f37d/colorLogoPNG.png" group-title="New on Pluto TV",History Hunters
+#EXTINF:-1 channel-id="65819fc1b9adc4000813f37d" tvg-id="65819fc1b9adc4000813f37d" tvg-chno="6008" tvg-name="History Hunters" tvg-logo="https://images.pluto.tv/channels/65819fc1b9adc4000813f37d/colorLogoPNG.png" group-title="New on Pluto TV",History Hunters
 https://jmp2.uk/plu-65819fc1b9adc4000813f37d.m3u8
-#EXTINF:-1 channel-id="698a040b48d98175cb870fc5" tvg-id="698a040b48d98175cb870fc5" tvg-chno="6009" tvg-name="Hoarders" tvg-logo="https://images.pluto.tv/channels/698a040b48d98175cb870fc5/colorLogoPNG_1771343157070.png" group-title="New on Pluto TV",Hoarders
-https://jmp2.uk/plu-698a040b48d98175cb870fc5.m3u8
 #EXTINF:-1 channel-id="69b422590306b277746f48cb" tvg-id="69b422590306b277746f48cb" tvg-chno="6010" tvg-name="The Raccoons" tvg-logo="https://images.pluto.tv/channels/69b422590306b277746f48cb/colorLogoPNG_1778237197659.png" group-title="New on Pluto TV",The Raccoons
 https://jmp2.uk/plu-69b422590306b277746f48cb.m3u8
 #EXTINF:-1 channel-id="655b7cbb2c46f300086f0afa" tvg-id="655b7cbb2c46f300086f0afa" tvg-chno="6050" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/655b7cbb2c46f300086f0afa/colorLogoPNG_1759435114417.png" group-title="Sports",Pluto TV Snooker 900
@@ -315,6 +315,8 @@ https://jmp2.uk/plu-63d91d624e83e7000881ca8c.m3u8
 https://jmp2.uk/plu-66f135b45e4a6e0008b80606.m3u8
 #EXTINF:-1 channel-id="677fb137a5d8215f99b9cc06" tvg-id="677fb137a5d8215f99b9cc06" tvg-chno="6838" tvg-name="Top Chef" tvg-logo="https://images.pluto.tv/channels/677fb137a5d8215f99b9cc06/colorLogoPNG_1761664673466.png" group-title="Living",Top Chef
 https://jmp2.uk/plu-677fb137a5d8215f99b9cc06.m3u8
+#EXTINF:-1 channel-id="698a040b48d98175cb870fc5" tvg-id="698a040b48d98175cb870fc5" tvg-chno="6838" tvg-name="Hoarders" tvg-logo="https://images.pluto.tv/channels/698a040b48d98175cb870fc5/colorLogoPNG_1771343157070.png" group-title="Living",Hoarders
+https://jmp2.uk/plu-698a040b48d98175cb870fc5.m3u8
 #EXTINF:-1 channel-id="677fb3432952c1163bf1a539" tvg-id="677fb3432952c1163bf1a539" tvg-chno="6839" tvg-name="Million Dollar Listing" tvg-logo="https://images.pluto.tv/channels/677fb3432952c1163bf1a539/colorLogoPNG_1761664837789.png" group-title="Living",Million Dollar Listing
 https://jmp2.uk/plu-677fb3432952c1163bf1a539.m3u8
 #EXTINF:-1 channel-id="6852854bce36f0644f37d765" tvg-id="6852854bce36f0644f37d765" tvg-chno="6840" tvg-name="A New Life in the Sun" tvg-logo="https://images.pluto.tv/channels/6852854bce36f0644f37d765/colorLogoPNG_1762189013725.png" group-title="Living",A New Life in the Sun
