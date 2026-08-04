@@ -65,7 +65,7 @@ https://jmp2.uk/plu-6a28827ef4a627f3b07df1ea.m3u8
 https://jmp2.uk/plu-66ba495ffe11e5000881f049.m3u8
 #EXTINF:-1 channel-id="5c2d64ffbdf11b71587184b8" tvg-id="5c2d64ffbdf11b71587184b8" tvg-chno="6300" tvg-name="TV Land Sitcoms" tvg-logo="https://images.pluto.tv/channels/5c2d64ffbdf11b71587184b8/colorLogoPNG.png" group-title="Comedy",TV Land Sitcoms
 https://jmp2.uk/plu-5c2d64ffbdf11b71587184b8.m3u8
-#EXTINF:-1 channel-id="6a5ff6d9c868f8fd984e005c" tvg-id="6a5ff6d9c868f8fd984e005c" tvg-chno="6302" tvg-name="Ghosts" tvg-logo="https://images.pluto.tv/channels/6a5ff6d9c868f8fd984e005c/colorLogoPNG_1785533131338.png" group-title="Comedy",Ghosts
+#EXTINF:-1 channel-id="6a5ff6d9c868f8fd984e005c" tvg-id="6a5ff6d9c868f8fd984e005c" tvg-chno="6302" tvg-name="Ghosts" tvg-logo="https://images.pluto.tv/channels/6a5ff6d9c868f8fd984e005c/colorLogoPNG_1785791941652.png" group-title="Comedy",Ghosts
 https://jmp2.uk/plu-6a5ff6d9c868f8fd984e005c.m3u8
 #EXTINF:-1 channel-id="6132619f9ddaa50007e7dd86" tvg-id="6132619f9ddaa50007e7dd86" tvg-chno="6310" tvg-name="More TV Sitcoms" tvg-logo="https://images.pluto.tv/channels/6132619f9ddaa50007e7dd86/colorLogoPNG.png" group-title="Comedy",More TV Sitcoms
 https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
@@ -175,6 +175,8 @@ https://jmp2.uk/plu-695c32e61ca20bb8ca802eb9.m3u8
 https://jmp2.uk/plu-65c69bbfd77d450008c7ffee.m3u8
 #EXTINF:-1 channel-id="634dacf51d90320007fcd5fa" tvg-id="634dacf51d90320007fcd5fa" tvg-chno="6846" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/634dacf51d90320007fcd5fa/colorLogoPNG_1758310287876.png" group-title="Sci-Fi",Star Trek: Voyager
 https://jmp2.uk/plu-634dacf51d90320007fcd5fa.m3u8
+#EXTINF:-1 channel-id="695c32671ca20bb8ca7fd8f7" tvg-id="695c32671ca20bb8ca7fd8f7" tvg-chno="6848" tvg-name="Star Trek: Enterprise" tvg-logo="https://images.pluto.tv/channels/695c32671ca20bb8ca7fd8f7/colorLogoPNG_1768440939423.png" group-title="Sci-Fi",Star Trek: Enterprise
+https://jmp2.uk/plu-695c32671ca20bb8ca7fd8f7.m3u8
 #EXTINF:-1 channel-id="6913e381b6bf26bb6e798c13" tvg-id="6913e381b6bf26bb6e798c13" tvg-chno="6850" tvg-name="The X-Files" tvg-logo="https://images.pluto.tv/channels/6913e381b6bf26bb6e798c13/colorLogoPNG_1767310653556.png" group-title="Sci-Fi",The X-Files
 https://jmp2.uk/plu-6913e381b6bf26bb6e798c13.m3u8
 #EXTINF:-1 channel-id="69d7ebb726eeec84158e28cb" tvg-id="69d7ebb726eeec84158e28cb" tvg-chno="6857" tvg-name="Pluto TV Adventure" tvg-logo="https://images.pluto.tv/channels/69d7ebb726eeec84158e28cb/colorLogoPNG_1777587473079.png" group-title="Sci-Fi",Pluto TV Adventure
@@ -469,8 +471,8 @@ https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
 https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 #EXTINF:-1 channel-id="5dc9b875e280c80009a8a44a" tvg-id="5dc9b875e280c80009a8a44a" tvg-chno="8560" tvg-name="CBS News Los Angeles" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" group-title="News + Opinion",CBS News Los Angeles
 https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
-#EXTINF:-1 channel-id="62cdc8fdb05d2b0007ef5035" tvg-id="62cdc8fdb05d2b0007ef5035" tvg-chno="8570" tvg-name="CBS News Miami" tvg-logo="https://images.pluto.tv/channels/62cdc8fdb05d2b0007ef5035/colorLogoPNG.png" group-title="News + Opinion",CBS News Miami
-https://jmp2.uk/plu-62cdc8fdb05d2b0007ef5035.m3u8
+#EXTINF:-1 channel-id="62cdc813f5def500070361eb" tvg-id="62cdc813f5def500070361eb" tvg-chno="8570" tvg-name="CBS News Texas" tvg-logo="https://images.pluto.tv/channels/62cdc813f5def500070361eb/colorLogoPNG.png" group-title="News + Opinion",CBS News Texas
+https://jmp2.uk/plu-62cdc813f5def500070361eb.m3u8
 #EXTINF:-1 channel-id="55b179af994403942f3061d6" tvg-id="55b179af994403942f3061d6" tvg-chno="8578" tvg-name="Newsmax2" tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="News + Opinion",Newsmax2
 https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8
 #EXTINF:-1 channel-id="5d695f7db53adf96b78e7ce3" tvg-id="5d695f7db53adf96b78e7ce3" tvg-chno="8580" tvg-name="TODAY All Day" tvg-logo="https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png" group-title="News + Opinion",TODAY All Day
