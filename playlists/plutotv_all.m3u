@@ -837,10 +837,14 @@ https://jmp2.uk/plu-678f8676ad083171df19ca07.m3u8
 https://jmp2.uk/plu-6479ff1c17f5e10008ad2797.m3u8
 #EXTINF:-1 channel-id="62e91c3add66e00007eeb24c-ca" tvg-id="62e91c3add66e00007eeb24c" tvg-chno="6126" tvg-name="More Pluto TV Comedy" tvg-logo="https://images.pluto.tv/channels/62e91c3add66e00007eeb24c/colorLogoPNG_1759310317971.png" group-title="Canada",More Pluto TV Comedy
 https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8
+#EXTINF:-1 channel-id="6a15f7770ed14e790bab6449-mx" tvg-id="6a15f7770ed14e790bab6449" tvg-chno="6126" tvg-name="Blue Bloods" tvg-logo="https://images.pluto.tv/channels/6a15f7770ed14e790bab6449/colorLogoPNG_1782506664518.png" group-title="Mexico",Blue Bloods
+https://jmp2.uk/plu-6a15f7770ed14e790bab6449.m3u8
 #EXTINF:-1 channel-id="62e91c3add66e00007eeb24c-cl" tvg-id="62e91c3add66e00007eeb24c" tvg-chno="6126" tvg-name="More Pluto TV Comedy" tvg-logo="https://images.pluto.tv/channels/62e91c3add66e00007eeb24c/colorLogoPNG_1759310317971.png" group-title="Chile",More Pluto TV Comedy
 https://jmp2.uk/plu-62e91c3add66e00007eeb24c.m3u8
 #EXTINF:-1 channel-id="65649791954b020008d09565-dk" tvg-id="65649791954b020008d09565" tvg-chno="6126" tvg-name="På Tur" tvg-logo="https://images.pluto.tv/channels/65649791954b020008d09565/colorLogoPNG.png" group-title="Denmark",På Tur
 https://jmp2.uk/plu-65649791954b020008d09565.m3u8
+#EXTINF:-1 channel-id="6a15f7770ed14e790bab6449-ar" tvg-id="6a15f7770ed14e790bab6449" tvg-chno="6126" tvg-name="Blue Bloods" tvg-logo="https://images.pluto.tv/channels/6a15f7770ed14e790bab6449/colorLogoPNG_1782506664518.png" group-title="Argentina",Blue Bloods
+https://jmp2.uk/plu-6a15f7770ed14e790bab6449.m3u8
 #EXTINF:-1 channel-id="64ff2d8c6625510008c5a512-br" tvg-id="64ff2d8c6625510008c5a512" tvg-chno="6127" tvg-name="Rookie Blue" tvg-logo="https://images.pluto.tv/channels/64ff2d8c6625510008c5a512/colorLogoPNG.png" group-title="Brazil",Rookie Blue
 https://jmp2.uk/plu-64ff2d8c6625510008c5a512.m3u8
 #EXTINF:-1 channel-id="64ff270f30ab3300084e259c-mx" tvg-id="64ff270f30ab3300084e259c" tvg-chno="6127" tvg-name="Rookie Blue: Policías Novatos" tvg-logo="https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png" group-title="Mexico",Rookie Blue: Policías Novatos
@@ -5307,8 +5311,8 @@ https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
 https://jmp2.uk/plu-5dc9b8223687ff000936ed79.m3u8
 #EXTINF:-1 channel-id="5dc9b875e280c80009a8a44a-us" tvg-id="5dc9b875e280c80009a8a44a" tvg-chno="8560" tvg-name="CBS News Los Angeles" tvg-logo="https://images.pluto.tv/channels/5dc9b875e280c80009a8a44a/colorLogoPNG.png" group-title="United States",CBS News Los Angeles
 https://jmp2.uk/plu-5dc9b875e280c80009a8a44a.m3u8
-#EXTINF:-1 channel-id="62cdc813f5def500070361eb-us" tvg-id="62cdc813f5def500070361eb" tvg-chno="8570" tvg-name="CBS News Texas" tvg-logo="https://images.pluto.tv/channels/62cdc813f5def500070361eb/colorLogoPNG.png" group-title="United States",CBS News Texas
-https://jmp2.uk/plu-62cdc813f5def500070361eb.m3u8
+#EXTINF:-1 channel-id="62cdcac1be7a970008781a64-us" tvg-id="62cdcac1be7a970008781a64" tvg-chno="8570" tvg-name="CBS News Pittsburgh" tvg-logo="https://images.pluto.tv/channels/62cdcac1be7a970008781a64/colorLogoPNG.png" group-title="United States",CBS News Pittsburgh
+https://jmp2.uk/plu-62cdcac1be7a970008781a64.m3u8
 #EXTINF:-1 channel-id="55b179af994403942f3061d6-us" tvg-id="55b179af994403942f3061d6" tvg-chno="8578" tvg-name="Newsmax2" tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="United States",Newsmax2
 https://jmp2.uk/plu-55b179af994403942f3061d6.m3u8
 #EXTINF:-1 channel-id="5d695f7db53adf96b78e7ce3-us" tvg-id="5d695f7db53adf96b78e7ce3" tvg-chno="8580" tvg-name="TODAY All Day" tvg-logo="https://images.pluto.tv/channels/5d695f7db53adf96b78e7ce3/colorLogoPNG.png" group-title="United States",TODAY All Day
