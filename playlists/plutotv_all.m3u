@@ -3977,6 +3977,8 @@ https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8
 https://jmp2.uk/plu-6a68cb5a116cd6d17dba0b95.m3u8
 #EXTINF:-1 channel-id="6346937a46f9a2000889073d-dk" tvg-id="6346937a46f9a2000889073d" tvg-chno="6857" tvg-name="48 Hours" tvg-logo="https://images.pluto.tv/channels/6346937a46f9a2000889073d/colorLogoPNG.png" group-title="Denmark",48 Hours
 https://jmp2.uk/plu-6346937a46f9a2000889073d.m3u8
+#EXTINF:-1 channel-id="6a68cb5a116cd6d17dba0b95-ar" tvg-id="6a68cb5a116cd6d17dba0b95" tvg-chno="6857" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68cb5a116cd6d17dba0b95/colorLogoPNG_1785253726745.png" group-title="Argentina",NFL Channel
+https://jmp2.uk/plu-6a68cb5a116cd6d17dba0b95.m3u8
 #EXTINF:-1 channel-id="69d7ebff029c431826bd328e-us" tvg-id="69d7ebff029c431826bd328e" tvg-chno="6858" tvg-name="Battlestar Galactica" tvg-logo="https://images.pluto.tv/channels/69d7ebff029c431826bd328e/colorLogoPNG_1776982986391.png" group-title="United States",Battlestar Galactica
 https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
 #EXTINF:-1 channel-id="6a2b0d669465b98649cd0ba1-us" tvg-id="6a2b0d669465b98649cd0ba1" tvg-chno="6859" tvg-name="Charmed" tvg-logo="https://images.pluto.tv/channels/6a2b0d669465b98649cd0ba1/colorLogoPNG_1782946583491.png" group-title="United States",Charmed
