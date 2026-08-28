@@ -1,15 +1,17 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/dk.xml.gz"
-#EXTINF:-1 channel-id="6a4b5f7c4ac01af3ed4e6fa1" tvg-id="6a4b5f7c4ac01af3ed4e6fa1" tvg-chno="6001" tvg-name="Kebab Date" tvg-logo="https://images.pluto.tv/channels/6a4b5f7c4ac01af3ed4e6fa1/colorLogoPNG_1787131841044.png" group-title="Nyt på Pluto TV",Kebab Date
+#EXTINF:-1 channel-id="67a23b4e15d6eb000827a20d" tvg-id="67a23b4e15d6eb000827a20d" tvg-chno="6001" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23b4e15d6eb000827a20d/colorLogoPNG_1750773377786.png" group-title="Sport",Dominance FC TV
+https://jmp2.uk/plu-67a23b4e15d6eb000827a20d.m3u8
+#EXTINF:-1 channel-id="6a4b5f7c4ac01af3ed4e6fa1" tvg-id="6a4b5f7c4ac01af3ed4e6fa1" tvg-chno="6002" tvg-name="Kebab Date" tvg-logo="https://images.pluto.tv/channels/6a4b5f7c4ac01af3ed4e6fa1/colorLogoPNG_1787131841044.png" group-title="Nyt på Pluto TV",Kebab Date
 https://jmp2.uk/plu-6a4b5f7c4ac01af3ed4e6fa1.m3u8
-#EXTINF:-1 channel-id="6a329ace8b8fb5b94c6910eb" tvg-id="6a329ace8b8fb5b94c6910eb" tvg-chno="6002" tvg-name="Danske Hollywoodfruer" tvg-logo="https://images.pluto.tv/channels/6a329ace8b8fb5b94c6910eb/colorLogoPNG_1785239750042.png" group-title="Nyt på Pluto TV",Danske Hollywoodfruer
+#EXTINF:-1 channel-id="6a329ace8b8fb5b94c6910eb" tvg-id="6a329ace8b8fb5b94c6910eb" tvg-chno="6003" tvg-name="Danske Hollywoodfruer" tvg-logo="https://images.pluto.tv/channels/6a329ace8b8fb5b94c6910eb/colorLogoPNG_1785239750042.png" group-title="Nyt på Pluto TV",Danske Hollywoodfruer
 https://jmp2.uk/plu-6a329ace8b8fb5b94c6910eb.m3u8
-#EXTINF:-1 channel-id="6391ce99da3fda0008024a96" tvg-id="6391ce99da3fda0008024a96" tvg-chno="6003" tvg-name="Vore værste år" tvg-logo="https://images.pluto.tv/channels/6391ce99da3fda0008024a96/colorLogoPNG.png" group-title="Nyt på Pluto TV",Vore værste år
+#EXTINF:-1 channel-id="6391ce99da3fda0008024a96" tvg-id="6391ce99da3fda0008024a96" tvg-chno="6004" tvg-name="Vore værste år" tvg-logo="https://images.pluto.tv/channels/6391ce99da3fda0008024a96/colorLogoPNG.png" group-title="Nyt på Pluto TV",Vore værste år
 https://jmp2.uk/plu-6391ce99da3fda0008024a96.m3u8
-#EXTINF:-1 channel-id="6a0f0f7abfa576e1718f1d81" tvg-id="6a0f0f7abfa576e1718f1d81" tvg-chno="6004" tvg-name="American Gladiators" tvg-logo="https://images.pluto.tv/channels/6a0f0f7abfa576e1718f1d81/colorLogoPNG_1782464511227.png" group-title="Nyt på Pluto TV",American Gladiators
+#EXTINF:-1 channel-id="6a0f0f7abfa576e1718f1d81" tvg-id="6a0f0f7abfa576e1718f1d81" tvg-chno="6005" tvg-name="American Gladiators" tvg-logo="https://images.pluto.tv/channels/6a0f0f7abfa576e1718f1d81/colorLogoPNG_1782464511227.png" group-title="Nyt på Pluto TV",American Gladiators
 https://jmp2.uk/plu-6a0f0f7abfa576e1718f1d81.m3u8
-#EXTINF:-1 channel-id="6a68c47558918556e6078b1d" tvg-id="6a68c47558918556e6078b1d" tvg-chno="6005" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68c47558918556e6078b1d/colorLogoPNG_1785250985851.png" group-title="Nyt på Pluto TV",NFL Channel
+#EXTINF:-1 channel-id="6a68c47558918556e6078b1d" tvg-id="6a68c47558918556e6078b1d" tvg-chno="6006" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68c47558918556e6078b1d/colorLogoPNG_1785250985851.png" group-title="Nyt på Pluto TV",NFL Channel
 https://jmp2.uk/plu-6a68c47558918556e6078b1d.m3u8
-#EXTINF:-1 channel-id="6a329b4aff3691f8e69cc74f" tvg-id="6a329b4aff3691f8e69cc74f" tvg-chno="6006" tvg-name="The Bob Ross Channel" tvg-logo="https://images.pluto.tv/channels/6a329b4aff3691f8e69cc74f/colorLogoPNG_1782465052673.png" group-title="Nyt på Pluto TV",The Bob Ross Channel
+#EXTINF:-1 channel-id="6a329b4aff3691f8e69cc74f" tvg-id="6a329b4aff3691f8e69cc74f" tvg-chno="6007" tvg-name="The Bob Ross Channel" tvg-logo="https://images.pluto.tv/channels/6a329b4aff3691f8e69cc74f/colorLogoPNG_1782465052673.png" group-title="Nyt på Pluto TV",The Bob Ross Channel
 https://jmp2.uk/plu-6a329b4aff3691f8e69cc74f.m3u8
 #EXTINF:-1 channel-id="61c19af83fae0a00078c8918" tvg-id="61c19af83fae0a00078c8918" tvg-chno="6102" tvg-name="Paradise Hotel" tvg-logo="https://images.pluto.tv/channels/61c19af83fae0a00078c8918/colorLogoPNG.png" group-title="Dansk reality & underholdning",Paradise Hotel
 https://jmp2.uk/plu-61c19af83fae0a00078c8918.m3u8
@@ -61,10 +63,10 @@ https://jmp2.uk/plu-689a0ab0f4af1aaca24530ae.m3u8
 https://jmp2.uk/plu-67f79fdb3481170e68c0bc38.m3u8
 #EXTINF:-1 channel-id="62790dc1c733e8000733ba4d" tvg-id="62790dc1c733e8000733ba4d" tvg-chno="6136" tvg-name="Pixel.tv" tvg-logo="https://images.pluto.tv/channels/62790dc1c733e8000733ba4d/colorLogoPNG.png" group-title="Dansk reality & underholdning",Pixel.tv
 https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8
-#EXTINF:-1 channel-id="698ddf8fe93b210d1aaaa2fc" tvg-id="698ddf8fe93b210d1aaaa2fc" tvg-chno="6137" tvg-name="Asfalten kalder" tvg-logo="https://images.pluto.tv/channels/698ddf8fe93b210d1aaaa2fc/colorLogoPNG_1782383445575.png" group-title="Dansk reality & underholdning",Asfalten kalder
-https://jmp2.uk/plu-698ddf8fe93b210d1aaaa2fc.m3u8
 #EXTINF:-1 channel-id="66fd1338ec9d6d00081e0443" tvg-id="66fd1338ec9d6d00081e0443" tvg-chno="6137" tvg-name="Retake E-sport Live" tvg-logo="https://images.pluto.tv/channels/66fd1338ec9d6d00081e0443/colorLogoPNG_1730999680019.png" group-title="Dansk reality & underholdning",Retake E-sport Live
 https://jmp2.uk/plu-66fd1338ec9d6d00081e0443.m3u8
+#EXTINF:-1 channel-id="698ddf8fe93b210d1aaaa2fc" tvg-id="698ddf8fe93b210d1aaaa2fc" tvg-chno="6137" tvg-name="Asfalten kalder" tvg-logo="https://images.pluto.tv/channels/698ddf8fe93b210d1aaaa2fc/colorLogoPNG_1782383445575.png" group-title="Dansk reality & underholdning",Asfalten kalder
+https://jmp2.uk/plu-698ddf8fe93b210d1aaaa2fc.m3u8
 #EXTINF:-1 channel-id="6272511cb389bb0007b30b09" tvg-id="6272511cb389bb0007b30b09" tvg-chno="6139" tvg-name="For lækker til love" tvg-logo="https://images.pluto.tv/channels/6272511cb389bb0007b30b09/colorLogoPNG.png" group-title="Dansk reality & underholdning",For lækker til love
 https://jmp2.uk/plu-6272511cb389bb0007b30b09.m3u8
 #EXTINF:-1 channel-id="643814ef479f6400086ff043" tvg-id="643814ef479f6400086ff043" tvg-chno="6140" tvg-name="Mit plastikmareridt" tvg-logo="https://images.pluto.tv/channels/643814ef479f6400086ff043/colorLogoPNG.png" group-title="Dansk reality & underholdning",Mit plastikmareridt
@@ -89,18 +91,16 @@ https://jmp2.uk/plu-664f0eaa8ce31100088036bd.m3u8
 https://jmp2.uk/plu-664f132c8ea5560008ce4d86.m3u8
 #EXTINF:-1 channel-id="6357f3de3643ba0007bc0b50" tvg-id="6357f3de3643ba0007bc0b50" tvg-chno="6201" tvg-name="Pluto TV Sport" tvg-logo="https://images.pluto.tv/channels/6357f3de3643ba0007bc0b50/colorLogoPNG_1746816938506.png" group-title="Sport",Pluto TV Sport
 https://jmp2.uk/plu-6357f3de3643ba0007bc0b50.m3u8
-#EXTINF:-1 channel-id="6405d444d200410008009419" tvg-id="6405d444d200410008009419" tvg-chno="6203" tvg-name="BET25 LIVE" tvg-logo="https://images.pluto.tv/channels/6405d444d200410008009419/colorLogoPNG.png" group-title="Sport",BET25 LIVE
-https://jmp2.uk/plu-6405d444d200410008009419.m3u8
 #EXTINF:-1 channel-id="675c0762f433320008707f68" tvg-id="675c0762f433320008707f68" tvg-chno="6203" tvg-name="BET25 Live+" tvg-logo="https://images.pluto.tv/channels/675c0762f433320008707f68/colorLogoPNG.png" group-title="Sport",BET25 Live+
 https://jmp2.uk/plu-675c0762f433320008707f68.m3u8
+#EXTINF:-1 channel-id="6405d444d200410008009419" tvg-id="6405d444d200410008009419" tvg-chno="6203" tvg-name="BET25 LIVE" tvg-logo="https://images.pluto.tv/channels/6405d444d200410008009419/colorLogoPNG.png" group-title="Sport",BET25 LIVE
+https://jmp2.uk/plu-6405d444d200410008009419.m3u8
 #EXTINF:-1 channel-id="6618f54baec96800081525ec" tvg-id="6618f54baec96800081525ec" tvg-chno="6204" tvg-name="Pluto TV Håndbold Live" tvg-logo="https://images.pluto.tv/channels/6618f54baec96800081525ec/colorLogoPNG_1762173655031.png" group-title="Sport",Pluto TV Håndbold Live
 https://jmp2.uk/plu-6618f54baec96800081525ec.m3u8
 #EXTINF:-1 channel-id="68dfa431cc3c6cd904053100" tvg-id="68dfa431cc3c6cd904053100" tvg-chno="6205" tvg-name="Pluto TV Håndbold Highlights" tvg-logo="https://images.pluto.tv/channels/68dfa431cc3c6cd904053100/colorLogoPNG_1761838112979.png" group-title="Sport",Pluto TV Håndbold Highlights
 https://jmp2.uk/plu-68dfa431cc3c6cd904053100.m3u8
 #EXTINF:-1 channel-id="671656a37d5da50008de6514" tvg-id="671656a37d5da50008de6514" tvg-chno="6206" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/671656a37d5da50008de6514/colorLogoPNG_1732093553712.png" group-title="Sport",MODUS Super Series Darts
 https://jmp2.uk/plu-671656a37d5da50008de6514.m3u8
-#EXTINF:-1 channel-id="67a23b4e15d6eb000827a20d" tvg-id="67a23b4e15d6eb000827a20d" tvg-chno="6207" tvg-name="Dominance FC TV" tvg-logo="https://images.pluto.tv/channels/67a23b4e15d6eb000827a20d/colorLogoPNG_1750773377786.png" group-title="Sport",Dominance FC TV
-https://jmp2.uk/plu-67a23b4e15d6eb000827a20d.m3u8
 #EXTINF:-1 channel-id="68ac55bb3efb41cd979a65ec" tvg-id="68ac55bb3efb41cd979a65ec" tvg-chno="6208" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/68ac55bb3efb41cd979a65ec/colorLogoPNG_1760517441951.png" group-title="Sport",Pluto TV Snooker 900
 https://jmp2.uk/plu-68ac55bb3efb41cd979a65ec.m3u8
 #EXTINF:-1 channel-id="620234d766314700075cac86" tvg-id="620234d766314700075cac86" tvg-chno="6210" tvg-name="Top Gear" tvg-logo="https://images.pluto.tv/channels/620234d766314700075cac86/colorLogoPNG.png" group-title="Sport",Top Gear
