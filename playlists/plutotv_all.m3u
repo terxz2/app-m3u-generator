@@ -2743,8 +2743,6 @@ https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
 https://jmp2.uk/plu-62fb9c4539183b00076a3875.m3u8
 #EXTINF:-1 channel-id="62fb9c4539183b00076a3875-cl" tvg-id="62fb9c4539183b00076a3875" tvg-chno="6485" tvg-name="Busted at the Border" tvg-logo="https://images.pluto.tv/channels/62fb9c4539183b00076a3875/colorLogoPNG.png" group-title="Chile",Busted at the Border
 https://jmp2.uk/plu-62fb9c4539183b00076a3875.m3u8
-#EXTINF:-1 channel-id="61099df8cee03b00074b2ecf-br" tvg-id="61099df8cee03b00074b2ecf" tvg-chno="6486" tvg-name="O Encantador de Cães" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="Brazil",O Encantador de Cães
-https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 #EXTINF:-1 channel-id="61099f2b40d0640007fc5aa2-mx" tvg-id="61099f2b40d0640007fc5aa2" tvg-chno="6486" tvg-name="El Encantador de Perros" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="Mexico",El Encantador de Perros
 https://jmp2.uk/plu-61099f2b40d0640007fc5aa2.m3u8
 #EXTINF:-1 channel-id="61099f2b40d0640007fc5aa2-ar" tvg-id="61099f2b40d0640007fc5aa2" tvg-chno="6486" tvg-name="El Encantador de Perros" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png" group-title="Argentina",El Encantador de Perros
@@ -4761,6 +4759,8 @@ https://jmp2.uk/plu-6482f27c17f5e10008c10ff0.m3u8
 https://jmp2.uk/plu-671643fc5534bb00089187ad.m3u8
 #EXTINF:-1 channel-id="63f87d057533d80008ab9549-ca" tvg-id="63f87d057533d80008ab9549" tvg-chno="7225" tvg-name="SpongeBob SquarePants" tvg-logo="https://images.pluto.tv/channels/63f87d057533d80008ab9549/colorLogoPNG.png" group-title="Canada",SpongeBob SquarePants
 https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
+#EXTINF:-1 channel-id="61099df8cee03b00074b2ecf-br" tvg-id="61099df8cee03b00074b2ecf" tvg-chno="7225" tvg-name="O Encantador de Cães" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="Brazil",O Encantador de Cães
+https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
 #EXTINF:-1 channel-id="63f87d057533d80008ab9549-cl" tvg-id="63f87d057533d80008ab9549" tvg-chno="7225" tvg-name="SpongeBob SquarePants" tvg-logo="https://images.pluto.tv/channels/63f87d057533d80008ab9549/colorLogoPNG.png" group-title="Chile",SpongeBob SquarePants
 https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
 #EXTINF:-1 channel-id="5f8ecfb9db6c180007a6d1b0-fr" tvg-id="5f8ecfb9db6c180007a6d1b0" tvg-chno="7225" tvg-name="WPT" tvg-logo="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/colorLogoPNG.png" group-title="France",WPT
@@ -4781,6 +4781,8 @@ https://jmp2.uk/plu-62e95265c9fd030007268fb9.m3u8
 https://jmp2.uk/plu-6887a4e01067b66fa16966ec.m3u8
 #EXTINF:-1 channel-id="65492fc7056b9700088560b5-us" tvg-id="65492fc7056b9700088560b5" tvg-chno="7240" tvg-name="American Crimes" tvg-logo="https://images.pluto.tv/channels/65492fc7056b9700088560b5/colorLogoPNG_1763432008789.png" group-title="United States",American Crimes
 https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8
+#EXTINF:-1 channel-id="63da36dea995710008727d4d-cl" tvg-id="63da36dea995710008727d4d" tvg-chno="7240" tvg-name="Transformers" tvg-logo="https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png" group-title="Chile",Transformers
+https://jmp2.uk/plu-63da36dea995710008727d4d.m3u8
 #EXTINF:-1 channel-id="66ebf4a88131f10008b74739-ca" tvg-id="66ebf4a88131f10008b74739" tvg-chno="7245" tvg-name="Pokémon" tvg-logo="https://images.pluto.tv/channels/66ebf4a88131f10008b74739/colorLogoPNG.png" group-title="Canada",Pokémon
 https://jmp2.uk/plu-66ebf4a88131f10008b74739.m3u8
 #EXTINF:-1 channel-id="66ebf4a88131f10008b74739-cl" tvg-id="66ebf4a88131f10008b74739" tvg-chno="7245" tvg-name="Pokémon" tvg-logo="https://images.pluto.tv/channels/66ebf4a88131f10008b74739/colorLogoPNG.png" group-title="Chile",Pokémon
