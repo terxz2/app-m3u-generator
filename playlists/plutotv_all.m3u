@@ -3101,8 +3101,6 @@ https://jmp2.uk/plu-6964bb3640c8de392514a0c6.m3u8
 https://jmp2.uk/plu-61c1a05ef30f5d0007e562f3.m3u8
 #EXTINF:-1 channel-id="5d81607ab737153ea3c1c80e-us" tvg-id="5d81607ab737153ea3c1c80e" tvg-chno="6560" tvg-name="The Addams Family" tvg-logo="https://images.pluto.tv/channels/5d81607ab737153ea3c1c80e/colorLogoPNG.png" group-title="United States",The Addams Family
 https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
-#EXTINF:-1 channel-id="5f7274806621ff00072651ff-us" tvg-id="5f7274806621ff00072651ff" tvg-chno="6560" tvg-name="Narcos" tvg-logo="https://images.pluto.tv/channels/5f7274806621ff00072651ff/colorLogoPNG.png" group-title="United States",Narcos
-https://jmp2.uk/plu-5f7274806621ff00072651ff.m3u8
 #EXTINF:-1 channel-id="63a084934734f30007457b2c-mx" tvg-id="63a084934734f30007457b2c" tvg-chno="6560" tvg-name="Smithsonian Channel Pluto TV" tvg-logo="https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png" group-title="Mexico",Smithsonian Channel Pluto TV
 https://jmp2.uk/plu-63a084934734f30007457b2c.m3u8
 #EXTINF:-1 channel-id="6971fc6dca441014e4600f2c-it" tvg-id="6971fc6dca441014e4600f2c" tvg-chno="6560" tvg-name="Automoto" tvg-logo="https://images.pluto.tv/channels/6971fc6dca441014e4600f2c/colorLogoPNG_1773155503349.png" group-title="Italy",Automoto
@@ -4331,6 +4329,8 @@ https://jmp2.uk/plu-6512d3c96a84140008513ff5.m3u8
 https://jmp2.uk/plu-66a7aac9d512590008ab2dcb.m3u8
 #EXTINF:-1 channel-id="61c0b550e0d3a700072b6a2a-se" tvg-id="61c0b550e0d3a700072b6a2a" tvg-chno="6958" tvg-name="Comedy Central" tvg-logo="https://images.pluto.tv/channels/61c0b550e0d3a700072b6a2a/colorLogoPNG.png" group-title="Sweden",Comedy Central
 https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
+#EXTINF:-1 channel-id="5f7274806621ff00072651ff-us" tvg-id="5f7274806621ff00072651ff" tvg-chno="6959" tvg-name="Narcos" tvg-logo="https://images.pluto.tv/channels/5f7274806621ff00072651ff/colorLogoPNG.png" group-title="United States",Narcos
+https://jmp2.uk/plu-5f7274806621ff00072651ff.m3u8
 #EXTINF:-1 channel-id="5efbd29e4aa26700076c0d06-us" tvg-id="5efbd29e4aa26700076c0d06" tvg-chno="6960" tvg-name="CSI" tvg-logo="https://images.pluto.tv/channels/5efbd29e4aa26700076c0d06/colorLogoPNG.png" group-title="United States",CSI
 https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
 #EXTINF:-1 channel-id="672e1634e482950008c759a5-no" tvg-id="672e1634e482950008c759a5" tvg-chno="6960" tvg-name="Becker" tvg-logo="https://images.pluto.tv/channels/672e1634e482950008c759a5/colorLogoPNG_1731073681479.png" group-title="Norway",Becker
