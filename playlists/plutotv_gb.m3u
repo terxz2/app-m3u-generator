@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz"
+#EXTINF:-1 channel-id="66ba1f16cd0d3100086dcf22" tvg-id="66ba1f16cd0d3100086dcf22" tvg-chno="6001" tvg-name="Alien Files Unsealed" tvg-logo="https://images.pluto.tv/channels/66ba1f16cd0d3100086dcf22/colorLogoPNG_1788298523404.png" group-title="New on Pluto TV",Alien Files Unsealed
+https://jmp2.uk/plu-66ba1f16cd0d3100086dcf22.m3u8
 #EXTINF:-1 channel-id="67f4ffda8ddd60c57dc24e35" tvg-id="67f4ffda8ddd60c57dc24e35" tvg-chno="6002" tvg-name="Pluto TV Creature Features" tvg-logo="https://images.pluto.tv/channels/67f4ffda8ddd60c57dc24e35/colorLogoPNG_1747213241493.png" group-title="New on Pluto TV",Pluto TV Creature Features
 https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8
 #EXTINF:-1 channel-id="67f4fde1fbe45309c7699d6f" tvg-id="67f4fde1fbe45309c7699d6f" tvg-chno="6003" tvg-name="Pluto TV Masters of Horror" tvg-logo="https://images.pluto.tv/channels/67f4fde1fbe45309c7699d6f/colorLogoPNG_1747213230911.png" group-title="New on Pluto TV",Pluto TV Masters of Horror

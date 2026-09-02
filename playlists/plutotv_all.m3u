@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/all.xml.gz"
+#EXTINF:-1 channel-id="66ba1f16cd0d3100086dcf22-gb" tvg-id="66ba1f16cd0d3100086dcf22" tvg-chno="6001" tvg-name="Alien Files Unsealed" tvg-logo="https://images.pluto.tv/channels/66ba1f16cd0d3100086dcf22/colorLogoPNG_1788298523404.png" group-title="United Kingdom",Alien Files Unsealed
+https://jmp2.uk/plu-66ba1f16cd0d3100086dcf22.m3u8
 #EXTINF:-1 channel-id="680ba9878e4b08935e31462b-es" tvg-id="680ba9878e4b08935e31462b" tvg-chno="6001" tvg-name="Top Gear: Racing Icons" tvg-logo="https://images.pluto.tv/channels/680ba9878e4b08935e31462b/colorLogoPNG_1748523330362.png" group-title="Spain",Top Gear: Racing Icons
 https://jmp2.uk/plu-680ba9878e4b08935e31462b.m3u8
 #EXTINF:-1 channel-id="6a68dd013ee9d9664278cfb6-ca" tvg-id="6a68dd013ee9d9664278cfb6" tvg-chno="6001" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png" group-title="Canada",NFL Channel
