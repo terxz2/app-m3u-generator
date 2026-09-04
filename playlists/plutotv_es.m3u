@@ -1,7 +1,9 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/es.xml.gz"
-#EXTINF:-1 channel-id="680ba9878e4b08935e31462b" tvg-id="680ba9878e4b08935e31462b" tvg-chno="6001" tvg-name="Top Gear: Racing Icons" tvg-logo="https://images.pluto.tv/channels/680ba9878e4b08935e31462b/colorLogoPNG_1748523330362.png" group-title="Nuevo en Pluto TV",Top Gear: Racing Icons
+#EXTINF:-1 channel-id="6a31544f2c1c785c1138dbb1" tvg-id="6a31544f2c1c785c1138dbb1" tvg-chno="6001" tvg-name="Mr. Bean" tvg-logo="https://images.pluto.tv/channels/6a31544f2c1c785c1138dbb1/colorLogoPNG_1781617788564.png" group-title="Nuevo en Pluto TV",Mr. Bean
+https://jmp2.uk/plu-6a31544f2c1c785c1138dbb1.m3u8
+#EXTINF:-1 channel-id="680ba9878e4b08935e31462b" tvg-id="680ba9878e4b08935e31462b" tvg-chno="6002" tvg-name="Top Gear: Racing Icons" tvg-logo="https://images.pluto.tv/channels/680ba9878e4b08935e31462b/colorLogoPNG_1748523330362.png" group-title="Nuevo en Pluto TV",Top Gear: Racing Icons
 https://jmp2.uk/plu-680ba9878e4b08935e31462b.m3u8
-#EXTINF:-1 channel-id="6a43d26599d7b121476c351c" tvg-id="6a43d26599d7b121476c351c" tvg-chno="6002" tvg-name="Acapulco Shore" tvg-logo="https://images.pluto.tv/channels/6a43d26599d7b121476c351c/colorLogoPNG_1787302997380.png" group-title="Nuevo en Pluto TV",Acapulco Shore
+#EXTINF:-1 channel-id="6a43d26599d7b121476c351c" tvg-id="6a43d26599d7b121476c351c" tvg-chno="6003" tvg-name="Acapulco Shore" tvg-logo="https://images.pluto.tv/channels/6a43d26599d7b121476c351c/colorLogoPNG_1787302997380.png" group-title="Nuevo en Pluto TV",Acapulco Shore
 https://jmp2.uk/plu-6a43d26599d7b121476c351c.m3u8
 #EXTINF:-1 channel-id="5f984f4a09e92d0007d74647" tvg-id="5f984f4a09e92d0007d74647" tvg-chno="6020" tvg-name="Archivos Forenses" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG_1763542909820.png" group-title="Crimen y Misterio",Archivos Forenses
 https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
@@ -47,8 +49,6 @@ https://jmp2.uk/plu-657868a7a620e30008fdbfeb.m3u8
 https://jmp2.uk/plu-6578808014fbe400086e21bc.m3u8
 #EXTINF:-1 channel-id="6812206e1b3e3be031a5c363" tvg-id="6812206e1b3e3be031a5c363" tvg-chno="6064" tvg-name="Águila Roja" tvg-logo="https://images.pluto.tv/channels/6812206e1b3e3be031a5c363/colorLogoPNG_1754647874286.png" group-title="Series",Águila Roja
 https://jmp2.uk/plu-6812206e1b3e3be031a5c363.m3u8
-#EXTINF:-1 channel-id="65787f2eb228b7000843fa5c" tvg-id="65787f2eb228b7000843fa5c" tvg-chno="6065" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65787f2eb228b7000843fa5c/colorLogoPNG.png" group-title="Series",Star Trek: Voyager
-https://jmp2.uk/plu-65787f2eb228b7000843fa5c.m3u8
 #EXTINF:-1 channel-id="5f1acce7f17797000718f9be" tvg-id="5f1acce7f17797000718f9be" tvg-chno="6066" tvg-name="Ana y los 7" tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="Series",Ana y los 7
 https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
 #EXTINF:-1 channel-id="5f1acd36779de70007a680d1" tvg-id="5f1acd36779de70007a680d1" tvg-chno="6067" tvg-name="Curro Jiménez" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="Series",Curro Jiménez
