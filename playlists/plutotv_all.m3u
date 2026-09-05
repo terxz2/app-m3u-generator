@@ -33,16 +33,16 @@ https://jmp2.uk/plu-6a3e3b2aee8afbaedeebdd84.m3u8
 https://jmp2.uk/plu-67f4fde1fbe45309c7699d6f.m3u8
 #EXTINF:-1 channel-id="6a43d26599d7b121476c351c-es" tvg-id="6a43d26599d7b121476c351c" tvg-chno="6003" tvg-name="Acapulco Shore" tvg-logo="https://images.pluto.tv/channels/6a43d26599d7b121476c351c/colorLogoPNG_1787302997380.png" group-title="Spain",Acapulco Shore
 https://jmp2.uk/plu-6a43d26599d7b121476c351c.m3u8
-#EXTINF:-1 channel-id="6a56ae45c868f8fd9818d59a-ca" tvg-id="6a56ae45c868f8fd9818d59a" tvg-chno="6003" tvg-name="7th Heaven" tvg-logo="https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png" group-title="Canada",7th Heaven
-https://jmp2.uk/plu-6a56ae45c868f8fd9818d59a.m3u8
 #EXTINF:-1 channel-id="6a68dd013ee9d9664278cfb6-ca" tvg-id="6a68dd013ee9d9664278cfb6" tvg-chno="6003" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png" group-title="Canada",NFL Channel
 https://jmp2.uk/plu-6a68dd013ee9d9664278cfb6.m3u8
+#EXTINF:-1 channel-id="6a56ae45c868f8fd9818d59a-ca" tvg-id="6a56ae45c868f8fd9818d59a" tvg-chno="6003" tvg-name="7th Heaven" tvg-logo="https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png" group-title="Canada",7th Heaven
+https://jmp2.uk/plu-6a56ae45c868f8fd9818d59a.m3u8
 #EXTINF:-1 channel-id="69f0802b40ffd5e0717dd952-de" tvg-id="69f0802b40ffd5e0717dd952" tvg-chno="6003" tvg-name="Kommissar Rex" tvg-logo="https://images.pluto.tv/channels/69f0802b40ffd5e0717dd952/colorLogoPNG_1785145798565.png" group-title="Germany",Kommissar Rex
 https://jmp2.uk/plu-69f0802b40ffd5e0717dd952.m3u8
-#EXTINF:-1 channel-id="6a56ae45c868f8fd9818d59a-cl" tvg-id="6a56ae45c868f8fd9818d59a" tvg-chno="6003" tvg-name="7th Heaven" tvg-logo="https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png" group-title="Chile",7th Heaven
-https://jmp2.uk/plu-6a56ae45c868f8fd9818d59a.m3u8
 #EXTINF:-1 channel-id="6a68dd013ee9d9664278cfb6-cl" tvg-id="6a68dd013ee9d9664278cfb6" tvg-chno="6003" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68dd013ee9d9664278cfb6/colorLogoPNG_1785257335736.png" group-title="Chile",NFL Channel
 https://jmp2.uk/plu-6a68dd013ee9d9664278cfb6.m3u8
+#EXTINF:-1 channel-id="6a56ae45c868f8fd9818d59a-cl" tvg-id="6a56ae45c868f8fd9818d59a" tvg-chno="6003" tvg-name="7th Heaven" tvg-logo="https://images.pluto.tv/channels/6a56ae45c868f8fd9818d59a/colorLogoPNG_1784070025390.png" group-title="Chile",7th Heaven
+https://jmp2.uk/plu-6a56ae45c868f8fd9818d59a.m3u8
 #EXTINF:-1 channel-id="62724ae034f5190007b63424-no" tvg-id="62724ae034f5190007b63424" tvg-chno="6003" tvg-name="Doc Martin" tvg-logo="https://images.pluto.tv/channels/62724ae034f5190007b63424/colorLogoPNG.png" group-title="Norway",Doc Martin
 https://jmp2.uk/plu-62724ae034f5190007b63424.m3u8
 #EXTINF:-1 channel-id="6a427b8e2286bf07b64724f0-se" tvg-id="6a427b8e2286bf07b64724f0" tvg-chno="6003" tvg-name="Pluto TV Sci-fi filmer" tvg-logo="https://images.pluto.tv/channels/6a427b8e2286bf07b64724f0/colorLogoPNG_1788158301067.png" group-title="Sweden",Pluto TV Sci-fi filmer
@@ -51,12 +51,8 @@ https://jmp2.uk/plu-6a427b8e2286bf07b64724f0.m3u8
 https://jmp2.uk/plu-6a42707f7dd69d931963b5d4.m3u8
 #EXTINF:-1 channel-id="67f4ff72dea1c5e0d5c205fe-gb" tvg-id="67f4ff72dea1c5e0d5c205fe" tvg-chno="6004" tvg-name="Pluto TV Slasher Movies" tvg-logo="https://images.pluto.tv/channels/67f4ff72dea1c5e0d5c205fe/colorLogoPNG_1747147418647.png" group-title="United Kingdom",Pluto TV Slasher Movies
 https://jmp2.uk/plu-67f4ff72dea1c5e0d5c205fe.m3u8
-#EXTINF:-1 channel-id="62e920403bd6940007fb68b8-ca" tvg-id="62e920403bd6940007fb68b8" tvg-chno="6004" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png" group-title="Canada",Family Ties
-https://jmp2.uk/plu-62e920403bd6940007fb68b8.m3u8
 #EXTINF:-1 channel-id="69b0160da9b840a456a11b4a-de" tvg-id="69b0160da9b840a456a11b4a" tvg-chno="6004" tvg-name="Vier Frauen und ein Todesfall" tvg-logo="https://images.pluto.tv/channels/69b0160da9b840a456a11b4a/colorLogoPNG_1775136896726.png" group-title="Germany",Vier Frauen und ein Todesfall
 https://jmp2.uk/plu-69b0160da9b840a456a11b4a.m3u8
-#EXTINF:-1 channel-id="62e920403bd6940007fb68b8-cl" tvg-id="62e920403bd6940007fb68b8" tvg-chno="6004" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png" group-title="Chile",Family Ties
-https://jmp2.uk/plu-62e920403bd6940007fb68b8.m3u8
 #EXTINF:-1 channel-id="6a68c4f2f107abb1a6e9df7a-no" tvg-id="6a68c4f2f107abb1a6e9df7a" tvg-chno="6004" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68c4f2f107abb1a6e9df7a/colorLogoPNG_1785251107268.png" group-title="Norway",NFL Channel
 https://jmp2.uk/plu-6a68c4f2f107abb1a6e9df7a.m3u8
 #EXTINF:-1 channel-id="6391e0b4bad1970007ee5733-se" tvg-id="6391e0b4bad1970007ee5733" tvg-chno="6004" tvg-name="Våra värsta år" tvg-logo="https://images.pluto.tv/channels/6391e0b4bad1970007ee5733/colorLogoPNG.png" group-title="Sweden",Våra värsta år
@@ -907,8 +903,12 @@ https://jmp2.uk/plu-64ff270f30ab3300084e259c.m3u8
 https://jmp2.uk/plu-64ff270f30ab3300084e259c.m3u8
 #EXTINF:-1 channel-id="6267d4d1fb694f0007a6af0e-es" tvg-id="6267d4d1fb694f0007a6af0e" tvg-chno="6128" tvg-name="Pluto TV Horror" tvg-logo="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png" group-title="Spain",Pluto TV Horror
 https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
+#EXTINF:-1 channel-id="62e920403bd6940007fb68b8-ca" tvg-id="62e920403bd6940007fb68b8" tvg-chno="6128" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png" group-title="Canada",Family Ties
+https://jmp2.uk/plu-62e920403bd6940007fb68b8.m3u8
 #EXTINF:-1 channel-id="65004605110545000842035d-de" tvg-id="65004605110545000842035d" tvg-chno="6128" tvg-name="Pluto TV Action" tvg-logo="https://images.pluto.tv/channels/65004605110545000842035d/colorLogoPNG_1751356419664.png" group-title="Germany",Pluto TV Action
 https://jmp2.uk/plu-65004605110545000842035d.m3u8
+#EXTINF:-1 channel-id="62e920403bd6940007fb68b8-cl" tvg-id="62e920403bd6940007fb68b8" tvg-chno="6128" tvg-name="Family Ties" tvg-logo="https://images.pluto.tv/channels/62e920403bd6940007fb68b8/colorLogoPNG.png" group-title="Chile",Family Ties
+https://jmp2.uk/plu-62e920403bd6940007fb68b8.m3u8
 #EXTINF:-1 channel-id="6385e82900ab2e000768a058-es" tvg-id="6385e82900ab2e000768a058" tvg-chno="6129" tvg-name="Pluto TV Western" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png" group-title="Spain",Pluto TV Western
 https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 #EXTINF:-1 channel-id="642ad072283aa4000806148c-de" tvg-id="642ad072283aa4000806148c" tvg-chno="6129" tvg-name="Pluto TV Weihnachten im Sommer" tvg-logo="https://images.pluto.tv/channels/642ad072283aa4000806148c/colorLogoPNG.png" group-title="Germany",Pluto TV Weihnachten im Sommer
