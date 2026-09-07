@@ -1,24 +1,24 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/gb.xml.gz"
-#EXTINF:-1 channel-id="66ba1f16cd0d3100086dcf22" tvg-id="66ba1f16cd0d3100086dcf22" tvg-chno="6001" tvg-name="Alien Files Unsealed" tvg-logo="https://images.pluto.tv/channels/66ba1f16cd0d3100086dcf22/colorLogoPNG_1788439786705.png" group-title="New on Pluto TV",Alien Files Unsealed
+#EXTINF:-1 channel-id="6a5646b29958da78eaa083bd" tvg-id="6a5646b29958da78eaa083bd" tvg-chno="6001" tvg-name="Sea Patrol" tvg-logo="https://images.pluto.tv/channels/6a5646b29958da78eaa083bd/colorLogoPNG_1784039133556.png" group-title="New on Pluto TV",Sea Patrol
+https://jmp2.uk/plu-6a5646b29958da78eaa083bd.m3u8
+#EXTINF:-1 channel-id="66ba1f16cd0d3100086dcf22" tvg-id="66ba1f16cd0d3100086dcf22" tvg-chno="6002" tvg-name="Alien Files Unsealed" tvg-logo="https://images.pluto.tv/channels/66ba1f16cd0d3100086dcf22/colorLogoPNG_1788439786705.png" group-title="New on Pluto TV",Alien Files Unsealed
 https://jmp2.uk/plu-66ba1f16cd0d3100086dcf22.m3u8
-#EXTINF:-1 channel-id="67f4ffda8ddd60c57dc24e35" tvg-id="67f4ffda8ddd60c57dc24e35" tvg-chno="6002" tvg-name="Pluto TV Creature Features" tvg-logo="https://images.pluto.tv/channels/67f4ffda8ddd60c57dc24e35/colorLogoPNG_1747213241493.png" group-title="New on Pluto TV",Pluto TV Creature Features
+#EXTINF:-1 channel-id="67f4ffda8ddd60c57dc24e35" tvg-id="67f4ffda8ddd60c57dc24e35" tvg-chno="6003" tvg-name="Pluto TV Creature Features" tvg-logo="https://images.pluto.tv/channels/67f4ffda8ddd60c57dc24e35/colorLogoPNG_1747213241493.png" group-title="New on Pluto TV",Pluto TV Creature Features
 https://jmp2.uk/plu-67f4ffda8ddd60c57dc24e35.m3u8
-#EXTINF:-1 channel-id="67f4fde1fbe45309c7699d6f" tvg-id="67f4fde1fbe45309c7699d6f" tvg-chno="6003" tvg-name="Pluto TV Masters of Horror" tvg-logo="https://images.pluto.tv/channels/67f4fde1fbe45309c7699d6f/colorLogoPNG_1747213230911.png" group-title="New on Pluto TV",Pluto TV Masters of Horror
+#EXTINF:-1 channel-id="67f4fde1fbe45309c7699d6f" tvg-id="67f4fde1fbe45309c7699d6f" tvg-chno="6004" tvg-name="Pluto TV Masters of Horror" tvg-logo="https://images.pluto.tv/channels/67f4fde1fbe45309c7699d6f/colorLogoPNG_1747213230911.png" group-title="New on Pluto TV",Pluto TV Masters of Horror
 https://jmp2.uk/plu-67f4fde1fbe45309c7699d6f.m3u8
-#EXTINF:-1 channel-id="67f4ff72dea1c5e0d5c205fe" tvg-id="67f4ff72dea1c5e0d5c205fe" tvg-chno="6004" tvg-name="Pluto TV Slasher Movies" tvg-logo="https://images.pluto.tv/channels/67f4ff72dea1c5e0d5c205fe/colorLogoPNG_1747147418647.png" group-title="New on Pluto TV",Pluto TV Slasher Movies
+#EXTINF:-1 channel-id="67f4ff72dea1c5e0d5c205fe" tvg-id="67f4ff72dea1c5e0d5c205fe" tvg-chno="6005" tvg-name="Pluto TV Slasher Movies" tvg-logo="https://images.pluto.tv/channels/67f4ff72dea1c5e0d5c205fe/colorLogoPNG_1747147418647.png" group-title="New on Pluto TV",Pluto TV Slasher Movies
 https://jmp2.uk/plu-67f4ff72dea1c5e0d5c205fe.m3u8
-#EXTINF:-1 channel-id="6a5e2f0b7ac97ec200c8ab02" tvg-id="6a5e2f0b7ac97ec200c8ab02" tvg-chno="6005" tvg-name="The First 48 & Beyond" tvg-logo="https://images.pluto.tv/channels/6a5e2f0b7ac97ec200c8ab02/colorLogoPNG_1785738435655.png" group-title="New on Pluto TV",The First 48 & Beyond
+#EXTINF:-1 channel-id="6a5e2f0b7ac97ec200c8ab02" tvg-id="6a5e2f0b7ac97ec200c8ab02" tvg-chno="6006" tvg-name="The First 48 & Beyond" tvg-logo="https://images.pluto.tv/channels/6a5e2f0b7ac97ec200c8ab02/colorLogoPNG_1785738435655.png" group-title="New on Pluto TV",The First 48 & Beyond
 https://jmp2.uk/plu-6a5e2f0b7ac97ec200c8ab02.m3u8
-#EXTINF:-1 channel-id="6a1ea2d1eddc28f7681e518e" tvg-id="6a1ea2d1eddc28f7681e518e" tvg-chno="6006" tvg-name="The Walking Dead Universe" tvg-logo="https://images.pluto.tv/channels/6a1ea2d1eddc28f7681e518e/colorLogoPNG_1780491937944.png" group-title="New on Pluto TV",The Walking Dead Universe
+#EXTINF:-1 channel-id="6a1ea2d1eddc28f7681e518e" tvg-id="6a1ea2d1eddc28f7681e518e" tvg-chno="6007" tvg-name="The Walking Dead Universe" tvg-logo="https://images.pluto.tv/channels/6a1ea2d1eddc28f7681e518e/colorLogoPNG_1780491937944.png" group-title="New on Pluto TV",The Walking Dead Universe
 https://jmp2.uk/plu-6a1ea2d1eddc28f7681e518e.m3u8
-#EXTINF:-1 channel-id="682456eb31bbd3e002d8c06b" tvg-id="682456eb31bbd3e002d8c06b" tvg-chno="6007" tvg-name="AMC Reality" tvg-logo="https://images.pluto.tv/channels/682456eb31bbd3e002d8c06b/colorLogoPNG_1779891567799.png" group-title="New on Pluto TV",AMC Reality
+#EXTINF:-1 channel-id="682456eb31bbd3e002d8c06b" tvg-id="682456eb31bbd3e002d8c06b" tvg-chno="6008" tvg-name="AMC Reality" tvg-logo="https://images.pluto.tv/channels/682456eb31bbd3e002d8c06b/colorLogoPNG_1779891567799.png" group-title="New on Pluto TV",AMC Reality
 https://jmp2.uk/plu-682456eb31bbd3e002d8c06b.m3u8
-#EXTINF:-1 channel-id="6824563bfaaa60cd7deff5ad" tvg-id="6824563bfaaa60cd7deff5ad" tvg-chno="6008" tvg-name="Love After Lock Up" tvg-logo="https://images.pluto.tv/channels/6824563bfaaa60cd7deff5ad/colorLogoPNG_1782912488127.png" group-title="New on Pluto TV",Love After Lock Up
+#EXTINF:-1 channel-id="6824563bfaaa60cd7deff5ad" tvg-id="6824563bfaaa60cd7deff5ad" tvg-chno="6009" tvg-name="Love After Lock Up" tvg-logo="https://images.pluto.tv/channels/6824563bfaaa60cd7deff5ad/colorLogoPNG_1782912488127.png" group-title="New on Pluto TV",Love After Lock Up
 https://jmp2.uk/plu-6824563bfaaa60cd7deff5ad.m3u8
-#EXTINF:-1 channel-id="6a6a02ce1b1c90d8bf9556d8" tvg-id="6a6a02ce1b1c90d8bf9556d8" tvg-chno="6009" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a6a02ce1b1c90d8bf9556d8/colorLogoPNG_1785333477887.png" group-title="New on Pluto TV",NFL Channel
+#EXTINF:-1 channel-id="6a6a02ce1b1c90d8bf9556d8" tvg-id="6a6a02ce1b1c90d8bf9556d8" tvg-chno="6010" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a6a02ce1b1c90d8bf9556d8/colorLogoPNG_1785333477887.png" group-title="New on Pluto TV",NFL Channel
 https://jmp2.uk/plu-6a6a02ce1b1c90d8bf9556d8.m3u8
-#EXTINF:-1 channel-id="6a3a463fd7a42182ccd2d0b1" tvg-id="6a3a463fd7a42182ccd2d0b1" tvg-chno="6010" tvg-name="Sam and Colby" tvg-logo="https://images.pluto.tv/channels/6a3a463fd7a42182ccd2d0b1/colorLogoPNG_1785310990240.png" group-title="New on Pluto TV",Sam and Colby
-https://jmp2.uk/plu-6a3a463fd7a42182ccd2d0b1.m3u8
 #EXTINF:-1 channel-id="655b7cbb2c46f300086f0afa" tvg-id="655b7cbb2c46f300086f0afa" tvg-chno="6050" tvg-name="Pluto TV Snooker 900" tvg-logo="https://images.pluto.tv/channels/655b7cbb2c46f300086f0afa/colorLogoPNG_1759435114417.png" group-title="Sports",Pluto TV Snooker 900
 https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8
 #EXTINF:-1 channel-id="67063e78b2ffb10008195d08" tvg-id="67063e78b2ffb10008195d08" tvg-chno="6051" tvg-name="MODUS Super Series Darts" tvg-logo="https://images.pluto.tv/channels/67063e78b2ffb10008195d08/colorLogoPNG.png" group-title="Sports",MODUS Super Series Darts
@@ -205,6 +205,8 @@ https://jmp2.uk/plu-60804d85858bd00007c5d591.m3u8
 https://jmp2.uk/plu-68e3bffe1cfcd7541d59090f.m3u8
 #EXTINF:-1 channel-id="6081648340382e0007f73d45" tvg-id="6081648340382e0007f73d45" tvg-chno="6410" tvg-name="Most Haunted" tvg-logo="https://images.pluto.tv/channels/6081648340382e0007f73d45/colorLogoPNG_1780041479486.png" group-title="Paranormal",Most Haunted
 https://jmp2.uk/plu-6081648340382e0007f73d45.m3u8
+#EXTINF:-1 channel-id="6a3a463fd7a42182ccd2d0b1" tvg-id="6a3a463fd7a42182ccd2d0b1" tvg-chno="6410" tvg-name="Sam and Colby" tvg-logo="https://images.pluto.tv/channels/6a3a463fd7a42182ccd2d0b1/colorLogoPNG_1785310990240.png" group-title="Paranormal",Sam and Colby
+https://jmp2.uk/plu-6a3a463fd7a42182ccd2d0b1.m3u8
 #EXTINF:-1 channel-id="5dc2c00abfed110009d97243" tvg-id="5dc2c00abfed110009d97243" tvg-chno="6550" tvg-name="Pluto TV Sherlock" tvg-logo="https://images.pluto.tv/channels/5dc2c00abfed110009d97243/colorLogoPNG.png" group-title="Classic TV",Pluto TV Sherlock
 https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
 #EXTINF:-1 channel-id="62ab579258cb950007811aad" tvg-id="62ab579258cb950007811aad" tvg-chno="6551" tvg-name="Mission Impossible" tvg-logo="https://images.pluto.tv/channels/62ab579258cb950007811aad/colorLogoPNG.png" group-title="Classic TV",Mission Impossible
