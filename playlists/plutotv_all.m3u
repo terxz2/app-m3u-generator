@@ -1641,6 +1641,8 @@ https://jmp2.uk/plu-6989b64839dd847194cadcd7.m3u8
 https://jmp2.uk/plu-677fb078a4af36ad50111032.m3u8
 #EXTINF:-1 channel-id="62052d3b4eeb740007fbe125-br" tvg-id="62052d3b4eeb740007fbe125" tvg-chno="6238" tvg-name="O Homem que veio do Céu" tvg-logo="https://images.pluto.tv/channels/62052d3b4eeb740007fbe125/colorLogoPNG_1732044609381.png" group-title="Brazil",O Homem que veio do Céu
 https://jmp2.uk/plu-62052d3b4eeb740007fbe125.m3u8
+#EXTINF:-1 channel-id="6a7cc5a857bd65df5dadba5f-us" tvg-id="6a7cc5a857bd65df5dadba5f" tvg-chno="6239" tvg-name="Pluto TV Hispanic Favorites" tvg-logo="https://images.pluto.tv/channels/6a7cc5a857bd65df5dadba5f/colorLogoPNG_1788454948703.png" group-title="United States",Pluto TV Hispanic Favorites
+https://jmp2.uk/plu-6a7cc5a857bd65df5dadba5f.m3u8
 #EXTINF:-1 channel-id="6152ee71bf99590007893a11-de" tvg-id="6152ee71bf99590007893a11" tvg-chno="6239" tvg-name="Pluto TV Star Trek" tvg-logo="https://images.pluto.tv/channels/6152ee71bf99590007893a11/colorLogoPNG.png" group-title="Germany",Pluto TV Star Trek
 https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
 #EXTINF:-1 channel-id="65c33fd4dc10a40008f26af8-dk" tvg-id="65c33fd4dc10a40008f26af8" tvg-chno="6239" tvg-name="Monster Jam" tvg-logo="https://images.pluto.tv/channels/65c33fd4dc10a40008f26af8/colorLogoPNG.png" group-title="Denmark",Monster Jam
@@ -5605,6 +5607,8 @@ https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 https://jmp2.uk/plu-65e23f340d4561000821540d.m3u8
 #EXTINF:-1 channel-id="5d14fb6c84dd37df3b4290c5-us" tvg-id="5d14fb6c84dd37df3b4290c5" tvg-chno="9720" tvg-name="Peppa Pig" tvg-logo="https://images.pluto.tv/channels/5d14fb6c84dd37df3b4290c5/colorLogoPNG_1730733871298.png" group-title="United States",Peppa Pig
 https://jmp2.uk/plu-5d14fb6c84dd37df3b4290c5.m3u8
+#EXTINF:-1 channel-id="6a70da97a4bf6cded4fdaf53-us" tvg-id="6a70da97a4bf6cded4fdaf53" tvg-chno="9721" tvg-name="Dora TV" tvg-logo="https://images.pluto.tv/channels/6a70da97a4bf6cded4fdaf53/colorLogoPNG_1786461439766.png" group-title="United States",Dora TV
+https://jmp2.uk/plu-6a70da97a4bf6cded4fdaf53.m3u8
 #EXTINF:-1 channel-id="51c75f7bb6f26ba1cd00002f-us" tvg-id="51c75f7bb6f26ba1cd00002f" tvg-chno="9730" tvg-name="Little Stars Universe" tvg-logo="https://images.pluto.tv/channels/51c75f7bb6f26ba1cd00002f/colorLogoPNG.png" group-title="United States",Little Stars Universe
 https://jmp2.uk/plu-51c75f7bb6f26ba1cd00002f.m3u8
 #EXTINF:-1 channel-id="66fedd65d7de140008dccd66-us" tvg-id="66fedd65d7de140008dccd66" tvg-chno="9755" tvg-name="El Reino Infantil" tvg-logo="https://images.pluto.tv/channels/66fedd65d7de140008dccd66/colorLogoPNG.png" group-title="United States",El Reino Infantil
