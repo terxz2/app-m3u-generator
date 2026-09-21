@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/ca.xml.gz"
 #EXTINF:-1 channel-id="6a315581df0b6d462c18397e" tvg-id="6a315581df0b6d462c18397e" tvg-chno="6001" tvg-name="Pluto TV 90s Hit Comedy" tvg-logo="https://images.pluto.tv/channels/6a315581df0b6d462c18397e/colorLogoPNG_1783520464793.png" group-title="Comedy",Pluto TV 90s Hit Comedy
 https://jmp2.uk/plu-6a315581df0b6d462c18397e.m3u8
+#EXTINF:-1 channel-id="6a7b1e40ad0d80253c6e10ce" tvg-id="6a7b1e40ad0d80253c6e10ce" tvg-chno="6003" tvg-name="Family Feud Canada" tvg-logo="https://images.pluto.tv/channels/6a7b1e40ad0d80253c6e10ce/colorLogoPNG_1789751514509.png" group-title="Game Shows",Family Feud Canada
+https://jmp2.uk/plu-6a7b1e40ad0d80253c6e10ce.m3u8
 #EXTINF:-1 channel-id="6a67825875fd5e3828e83703" tvg-id="6a67825875fd5e3828e83703" tvg-chno="6004" tvg-name="FloHockey 24/7" tvg-logo="https://images.pluto.tv/channels/6a67825875fd5e3828e83703/colorLogoPNG_1785780851784.png" group-title="Sports",FloHockey 24/7
 https://jmp2.uk/plu-6a67825875fd5e3828e83703.m3u8
 #EXTINF:-1 channel-id="67054838ec9d6d00082ee426" tvg-id="67054838ec9d6d00082ee426" tvg-chno="6006" tvg-name="Pluto TV Zombies" tvg-logo="https://images.pluto.tv/channels/67054838ec9d6d00082ee426/colorLogoPNG.png" group-title="House of Horror",Pluto TV Zombies
