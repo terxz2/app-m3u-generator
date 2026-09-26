@@ -15,6 +15,8 @@ https://jmp2.uk/plu-6a71f490f5f14c2045cd6118.m3u8
 https://jmp2.uk/plu-620236f52b73dd000719dd0f.m3u8
 #EXTINF:-1 channel-id="6a6318a71a30976934632c3d-se" tvg-id="6a6318a71a30976934632c3d" tvg-chno="6001" tvg-name="Paradise Hotel: Ny säsong" tvg-logo="https://images.pluto.tv/channels/6a6318a71a30976934632c3d/colorLogoPNG_1787063239097.png" group-title="Sweden",Paradise Hotel: Ny säsong
 https://jmp2.uk/plu-6a6318a71a30976934632c3d.m3u8
+#EXTINF:-1 channel-id="62790dc1c733e8000733ba4d-dk" tvg-id="62790dc1c733e8000733ba4d" tvg-chno="6001" tvg-name="Pixel.tv" tvg-logo="https://images.pluto.tv/channels/62790dc1c733e8000733ba4d/colorLogoPNG.png" group-title="Denmark",Pixel.tv
+https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8
 #EXTINF:-1 channel-id="66b22714d512590008c3d573-dk" tvg-id="66b22714d512590008c3d573" tvg-chno="6001" tvg-name="Den gule sofa med Allan Sindberg" tvg-logo="https://images.pluto.tv/channels/66b22714d512590008c3d573/colorLogoPNG.png" group-title="Denmark",Den gule sofa med Allan Sindberg
 https://jmp2.uk/plu-66b22714d512590008c3d573.m3u8
 #EXTINF:-1 channel-id="6a19496db1a87d7ce78bd379-gb" tvg-id="6a19496db1a87d7ce78bd379" tvg-chno="6002" tvg-name="Terra Mater WILD" tvg-logo="https://images.pluto.tv/channels/6a19496db1a87d7ce78bd379/colorLogoPNG_1780042171239.png" group-title="United Kingdom",Terra Mater WILD
@@ -149,8 +151,6 @@ https://jmp2.uk/plu-6a42707f7dd69d931963b5d4.m3u8
 https://jmp2.uk/plu-68590366010ddd78ef837d29.m3u8
 #EXTINF:-1 channel-id="6a0f0f857120a26f0d85426c-no" tvg-id="6a0f0f857120a26f0d85426c" tvg-chno="6012" tvg-name="American Gladiators" tvg-logo="https://images.pluto.tv/channels/6a0f0f857120a26f0d85426c/colorLogoPNG_1782464595980.png" group-title="Norway",American Gladiators
 https://jmp2.uk/plu-6a0f0f857120a26f0d85426c.m3u8
-#EXTINF:-1 channel-id="62790dc1c733e8000733ba4d-dk" tvg-id="62790dc1c733e8000733ba4d" tvg-chno="6012" tvg-name="Pixel.tv" tvg-logo="https://images.pluto.tv/channels/62790dc1c733e8000733ba4d/colorLogoPNG.png" group-title="Denmark",Pixel.tv
-https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8
 #EXTINF:-1 channel-id="67d984c989788ef7f058b084-de" tvg-id="67d984c989788ef7f058b084" tvg-chno="6013" tvg-name="Profiling Paris" tvg-logo="https://images.pluto.tv/channels/67d984c989788ef7f058b084/colorLogoPNG.png" group-title="Germany",Profiling Paris
 https://jmp2.uk/plu-67d984c989788ef7f058b084.m3u8
 #EXTINF:-1 channel-id="6a7d806bff94431f8b3112c3-se" tvg-id="6a7d806bff94431f8b3112c3" tvg-chno="6013" tvg-name="That's 90s00s" tvg-logo="https://images.pluto.tv/channels/6a7d806bff94431f8b3112c3/colorLogoPNG_1786626753290.png" group-title="Sweden",That's 90s00s

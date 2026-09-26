@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/master/PlutoTV/dk.xml.gz"
+#EXTINF:-1 channel-id="62790dc1c733e8000733ba4d" tvg-id="62790dc1c733e8000733ba4d" tvg-chno="6001" tvg-name="Pixel.tv" tvg-logo="https://images.pluto.tv/channels/62790dc1c733e8000733ba4d/colorLogoPNG.png" group-title="Dansk reality & underholdning",Pixel.tv
+https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8
 #EXTINF:-1 channel-id="66b22714d512590008c3d573" tvg-id="66b22714d512590008c3d573" tvg-chno="6001" tvg-name="Den gule sofa med Allan Sindberg" tvg-logo="https://images.pluto.tv/channels/66b22714d512590008c3d573/colorLogoPNG.png" group-title="Nyt på Pluto TV",Den gule sofa med Allan Sindberg
 https://jmp2.uk/plu-66b22714d512590008c3d573.m3u8
 #EXTINF:-1 channel-id="68ad8bececd330dcb0f050b5" tvg-id="68ad8bececd330dcb0f050b5" tvg-chno="6002" tvg-name="Love Island: All Stars" tvg-logo="https://images.pluto.tv/channels/68ad8bececd330dcb0f050b5/colorLogoPNG_1756794871691.png" group-title="Realityserier",Love Island: All Stars
@@ -19,8 +21,6 @@ https://jmp2.uk/plu-6a3e3b2aee8afbaedeebdd84.m3u8
 https://jmp2.uk/plu-6a6772429547fd4fecfab76c.m3u8
 #EXTINF:-1 channel-id="6a42707f7dd69d931963b5d4" tvg-id="6a42707f7dd69d931963b5d4" tvg-chno="6011" tvg-name="Star Trek: The Next Generation" tvg-logo="https://images.pluto.tv/channels/6a42707f7dd69d931963b5d4/colorLogoPNG_1782739113794.png" group-title="Nyt på Pluto TV",Star Trek: The Next Generation
 https://jmp2.uk/plu-6a42707f7dd69d931963b5d4.m3u8
-#EXTINF:-1 channel-id="62790dc1c733e8000733ba4d" tvg-id="62790dc1c733e8000733ba4d" tvg-chno="6012" tvg-name="Pixel.tv" tvg-logo="https://images.pluto.tv/channels/62790dc1c733e8000733ba4d/colorLogoPNG.png" group-title="Dansk reality & underholdning",Pixel.tv
-https://jmp2.uk/plu-62790dc1c733e8000733ba4d.m3u8
 #EXTINF:-1 channel-id="6a427b0ad7edac3ee2ae0917" tvg-id="6a427b0ad7edac3ee2ae0917" tvg-chno="6013" tvg-name="Pluto TV Sci-fi film" tvg-logo="https://images.pluto.tv/channels/6a427b0ad7edac3ee2ae0917/colorLogoPNG_1788158141093.png" group-title="Nyt på Pluto TV",Pluto TV Sci-fi film
 https://jmp2.uk/plu-6a427b0ad7edac3ee2ae0917.m3u8
 #EXTINF:-1 channel-id="6a4b5f7c4ac01af3ed4e6fa1" tvg-id="6a4b5f7c4ac01af3ed4e6fa1" tvg-chno="6015" tvg-name="Kebab Date" tvg-logo="https://images.pluto.tv/channels/6a4b5f7c4ac01af3ed4e6fa1/colorLogoPNG_1787131841044.png" group-title="Nyt på Pluto TV",Kebab Date
